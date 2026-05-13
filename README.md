@@ -15,7 +15,7 @@ Purpose
 
 This repository will be used to organize and submit:
 
-Weekly programming assignments
-Coding exercises
-Project files
-Final AI programming project
+- Weekly programming assignments
+- Coding exercises
+- Project files
+- Final AI programming project
