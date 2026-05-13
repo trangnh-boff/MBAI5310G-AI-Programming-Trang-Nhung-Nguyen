@@ -9,7 +9,7 @@ Course: MBAI5310G – AI Programming
 
 Repository Description
 
-This repository contains weekly coding assignments, notebooks, datasets, outputs, and the final AI programming project completed throughout the course.
+This repository contains weekly coding assignments, notebooks, outputs, and the final AI programming project completed throughout the course.
 
 Purpose
 
