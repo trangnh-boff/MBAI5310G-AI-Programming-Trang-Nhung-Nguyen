@@ -61,17 +61,17 @@ The models were evaluated using:
 
 ### Logistic Regression
 
-* Accuracy: 73.68%
-* Precision: 65.52%
-* Recall: 65.52%
-* F1-score: 65.52%
+* Accuracy: 0.7368
+* Precision: 0.6552
+* Recall: 0.6552
+* F1-score: 0.6552
 
 ### SVM
 
-* Accuracy: 67.11%
-* Precision: 57.14%
-* Recall: 55.17%
-* F1-score: 56.14%
+* Accuracy: 0.6711
+* Precision: 0.5714
+* Recall: 0.5517
+* F1-score: 0.5614
 
 Logistic Regression performed better overall.
 
