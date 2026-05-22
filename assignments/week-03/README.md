@@ -8,7 +8,6 @@ The target variable is:
 
 **Early_Repayment**
 
-This is a supervised binary classification problem.
 
 ## Dataset
 
