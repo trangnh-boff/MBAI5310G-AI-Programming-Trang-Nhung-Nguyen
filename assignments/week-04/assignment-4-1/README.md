@@ -45,23 +45,23 @@ The model was evaluated using:
 
 ## Main Evaluation Results
 
-| Metric | Result |
-|---|---:|
-| Training Accuracy | 1.0000 |
-| Testing Accuracy | 0.5694 |
-| Accuracy | 0.5694 |
-| Precision | 0.5152 |
-| Recall | 0.5313 |
-| F1-score | 0.5231 |
+Metric Result: 
+
+- Training Accuracy: 1.0000 
+- Testing Accuracy: 0.5694 
+- Accuracy: 0.5694 
+- Precision: 0.5152 
+- Recall: 0.5313 
+- F1-score: 0.5231 
 
 The confusion matrix showed:
 
-| Result Type | Count |
-|---|---:|
-| True Negative | 24 |
-| False Positive | 16 |
-| False Negative | 15 |
-| True Positive | 17 |
+Result Type Count:
+
+- True Negative: 24 
+- False Positive: 16 
+- False Negative: 15 
+- True Positive: 17 
 
 ## Key Business Insights
 
