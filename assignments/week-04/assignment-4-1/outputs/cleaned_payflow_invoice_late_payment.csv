@@ -1,0 +1,361 @@
+Customer_Segment,Industry,Region,Invoice_Month,Invoice_Amount,Payment_Terms_Days,Customer_Tenure_Months,Prior_Late_Payments,Avg_Days_To_Pay,Days_Since_Last_Order,Dispute_Flag,Reminder_Count,Online_Portal_Use,Early_Payment_Discount_Offered,Credit_Score_Band,Late_Payment
+Small Business,Construction,Prairies,Aug,5851.94,30,28,1,42,156,No,3,Yes,No,Medium,Yes
+Small Business,Healthcare Services,British Columbia,Aug,3224.65,30,34,2,47,153,Yes,2,Yes,No,High,No
+Mid-Market,Retail,Prairies,Dec,17946.67,30,12,2,38,19,No,2,No,No,High,Yes
+Small Business,Retail,British Columbia,Sep,5131.03,15,25,5,49,107,No,4,Yes,No,Low,Yes
+Mid-Market,Technology,Alberta,Aug,17553.63,60,14,0,61,46,No,2,Yes,No,Medium,Yes
+Small Business,Construction,Prairies,Oct,7914.26,15,46,6,24,157,No,6,Yes,No,Medium,Yes
+Small Business,Healthcare Services,Quebec,Jun,6728.54,30,25,1,40,46,No,0,No,No,Medium,No
+Mid-Market,Technology,Prairies,Oct,18756.31,15,17,1,16,122,Yes,1,Yes,Yes,Medium,Yes
+Enterprise,Construction,Ontario,Jul,85361.65,30,48,3,37,129,Yes,4,Yes,No,High,Yes
+Small Business,Construction,Alberta,Apr,3288.53,15,43,0,35,167,No,0,Yes,No,Medium,Yes
+Small Business,Manufacturing,British Columbia,Nov,5798.94,30,26,2,36,124,No,2,No,No,High,No
+Enterprise,Professional Services,Alberta,Aug,85426.66,30,29,1,38,38,No,2,No,Yes,Medium,No
+Mid-Market,Technology,Quebec,Oct,27763.08,15,68,1,30,23,No,1,Yes,No,Medium,No
+Mid-Market,Technology,Prairies,May,24160.72,30,67,0,25,154,No,0,No,No,Medium,No
+Small Business,Retail,Alberta,Jan,1629.87,45,9,0,51,165,No,1,No,No,Medium,Yes
+Mid-Market,Professional Services,British Columbia,Oct,29921.33,30,26,0,43,88,No,1,No,Yes,Medium,Yes
+Mid-Market,Professional Services,Alberta,Dec,23727.28,30,12,1,35,129,No,1,Yes,No,High,No
+Enterprise,Manufacturing,Prairies,May,88154.85,30,61,2,61,35,No,2,Yes,No,Medium,Yes
+Mid-Market,Retail,Prairies,Sep,10855.52,30,34,1,32,118,No,2,No,Yes,High,No
+Small Business,Manufacturing,Atlantic Canada,May,5125.18,15,23,2,25,165,No,1,Yes,Yes,Low,Yes
+Mid-Market,Construction,Quebec,Sep,25191.44,30,49,0,35,89,No,0,No,No,High,Yes
+Enterprise,Healthcare Services,Prairies,Apr,64771.4,45,97,2,50,175,No,2,No,No,Medium,No
+Mid-Market,Technology,Ontario,Oct,29314.55,15,24,0,13,103,No,0,Yes,No,High,No
+Mid-Market,Retail,Atlantic Canada,Aug,4892.47,30,36,1,31,22,No,1,Yes,No,Low,No
+Small Business,Healthcare Services,Prairies,Jun,5644.1,45,45,3,72,62,No,2,No,No,Medium,Yes
+Small Business,Manufacturing,Quebec,Oct,5281.95,30,6,1,52,86,Yes,1,Yes,No,Medium,Yes
+Small Business,Technology,Prairies,Oct,2348.17,45,12,2,49,65,No,1,Yes,No,Medium,No
+Enterprise,Technology,British Columbia,Dec,81177.66,30,82,2,46,121,No,1,No,Yes,High,Yes
+Small Business,Retail,British Columbia,Nov,7270.12,30,40,2,39,92,No,3,Yes,Yes,High,Yes
+Mid-Market,Retail,Ontario,Sep,13474.22,60,44,0,65,148,No,1,No,No,High,Yes
+Mid-Market,Professional Services,Atlantic Canada,Sep,8009.05,60,51,0,64,175,Yes,2,No,Yes,Medium,Yes
+Small Business,Manufacturing,Alberta,Jun,6917.81,45,24,0,58,80,No,0,Yes,No,High,No
+Small Business,Construction,Ontario,Apr,3454.68,45,5,1,66,126,No,1,No,No,Medium,Yes
+Mid-Market,Retail,Atlantic Canada,Dec,12850.55,15,48,1,27,156,No,2,No,No,Medium,Yes
+Enterprise,Healthcare Services,Atlantic Canada,Jul,21525.17,30,42,0,30,30,No,1,Yes,No,Medium,No
+Small Business,Manufacturing,British Columbia,Sep,5714.82,60,43,0,66,33,No,0,No,Yes,Medium,No
+Enterprise,Retail,Alberta,Jan,49184.5,30,44,1,46,72,No,0,Yes,No,Medium,No
+Mid-Market,Healthcare Services,Alberta,Feb,21207.63,15,83,0,19,88,No,1,Yes,No,Low,No
+Mid-Market,Manufacturing,Atlantic Canada,Dec,14515.98,30,26,0,33,107,Yes,0,Yes,Yes,Medium,No
+Small Business,Manufacturing,Atlantic Canada,Sep,1600.26,45,35,1,58,88,No,0,Yes,No,Medium,No
+Mid-Market,Retail,Ontario,Oct,29091.13,45,49,0,49,109,No,0,No,No,Medium,No
+Small Business,Construction,Alberta,May,7489.35,60,33,1,67,140,No,1,No,No,Low,Yes
+Mid-Market,Healthcare Services,Atlantic Canada,Apr,31501.24,45,53,1,63,77,No,1,No,No,Low,No
+Mid-Market,Retail,Atlantic Canada,Feb,13196.08,60,62,4,71,118,No,3,Yes,No,High,Yes
+Mid-Market,Professional Services,Quebec,Jan,10485.25,45,79,0,49,169,No,0,Yes,No,High,No
+Small Business,Professional Services,Prairies,Oct,2068.19,30,18,2,35,166,No,3,No,Yes,High,Yes
+Enterprise,Construction,British Columbia,Jun,60656.79,30,58,1,37,52,No,0,No,Yes,Low,No
+Small Business,Professional Services,Ontario,Aug,3884.17,30,25,0,26,125,No,3,Yes,No,Medium,No
+Small Business,Retail,Prairies,Dec,7848.02,45,17,1,60,81,No,0,No,No,Low,Yes
+Mid-Market,Construction,British Columbia,Sep,11802.45,45,79,1,58,79,No,2,Yes,No,High,No
+Mid-Market,Retail,Prairies,Feb,7089.45,30,24,0,37,116,No,1,Yes,No,Low,Yes
+Small Business,Professional Services,Quebec,Sep,952.32,30,47,1,34,71,No,2,Yes,Yes,Low,Yes
+Small Business,Healthcare Services,Atlantic Canada,Oct,5888.57,45,22,0,54,179,No,1,Yes,Yes,Medium,Yes
+Small Business,Retail,Atlantic Canada,Sep,6840.32,30,7,1,30,19,No,3,No,No,Low,No
+Mid-Market,Retail,British Columbia,Mar,9904.0,45,24,1,46,147,Yes,2,Yes,Yes,High,No
+Enterprise,Manufacturing,Atlantic Canada,Jun,19316.77,45,14,2,60,170,No,3,No,No,Low,Yes
+Small Business,Healthcare Services,Ontario,Oct,2647.94,30,16,2,22,94,No,1,Yes,No,Medium,No
+Mid-Market,Technology,Alberta,Jun,19357.57,45,75,0,49,166,No,0,No,No,High,No
+Enterprise,Retail,Atlantic Canada,Dec,42912.28,30,43,0,29,175,No,0,Yes,No,High,No
+Mid-Market,Retail,Alberta,Jun,26127.36,60,49,1,79,127,No,1,No,No,Medium,Yes
+Mid-Market,Construction,Prairies,Nov,25580.15,30,48,0,36,66,No,2,Yes,Yes,High,No
+Mid-Market,Professional Services,Atlantic Canada,Mar,23867.25,15,59,4,26,130,Yes,4,Yes,Yes,Medium,Yes
+Mid-Market,Technology,Atlantic Canada,Jul,19268.24,45,48,0,53,126,No,0,No,Yes,Medium,No
+Enterprise,Manufacturing,Ontario,Jan,70505.27,15,41,1,24,114,No,1,Yes,No,High,No
+Small Business,Professional Services,Quebec,Dec,1455.04,30,18,3,25,82,No,4,Yes,No,Medium,Yes
+Enterprise,Manufacturing,Ontario,Mar,20233.52,45,76,2,56,6,No,2,Yes,Yes,Medium,Yes
+Enterprise,Construction,Prairies,Jul,94400.73,30,98,0,43,29,Yes,2,Yes,No,High,Yes
+Enterprise,Healthcare Services,British Columbia,Nov,58852.38,60,54,2,71,135,No,1,No,No,Low,Yes
+Small Business,Manufacturing,Quebec,Dec,4719.81,45,15,0,41,137,No,0,Yes,No,Medium,No
+Mid-Market,Technology,Ontario,Oct,7462.17,45,50,0,53,103,No,0,Yes,Yes,Medium,No
+Enterprise,Professional Services,Quebec,May,57921.08,30,13,0,34,22,No,2,Yes,No,Low,No
+Small Business,Technology,Quebec,Feb,3761.22,60,31,0,57,99,No,2,Yes,Yes,Low,No
+Small Business,Construction,British Columbia,Jul,7558.94,45,12,0,44,158,No,0,Yes,No,High,No
+Mid-Market,Retail,Prairies,Dec,11663.9,15,50,1,39,6,No,2,No,No,Medium,Yes
+Small Business,Manufacturing,Atlantic Canada,Jul,1287.17,30,15,1,35,47,Yes,1,Yes,No,Medium,Yes
+Enterprise,Manufacturing,Quebec,Nov,35651.09,15,49,0,16,7,Yes,2,Yes,No,High,No
+Small Business,Technology,Quebec,Jun,3898.37,15,36,2,23,177,No,3,No,No,Medium,No
+Mid-Market,Construction,Ontario,Jan,11614.46,15,30,0,17,30,No,0,No,Yes,Low,No
+Small Business,Technology,Ontario,Apr,7300.99,45,28,0,38,165,No,1,No,No,Low,Yes
+Mid-Market,Construction,Atlantic Canada,Sep,25743.34,45,38,1,45,122,Yes,2,Yes,No,Low,Yes
+Mid-Market,Construction,Ontario,Oct,24279.78,60,62,2,65,14,No,1,Yes,No,Medium,Yes
+Enterprise,Professional Services,Atlantic Canada,Jul,43124.43,45,42,0,58,171,No,0,Yes,No,High,Yes
+Small Business,Technology,Atlantic Canada,Mar,4878.09,30,39,0,33,23,No,1,Yes,No,High,No
+Mid-Market,Technology,Atlantic Canada,Apr,22099.78,30,83,0,36,65,No,0,Yes,No,High,No
+Small Business,Professional Services,Quebec,Aug,7400.75,45,25,0,52,32,No,0,No,No,Low,No
+Small Business,Manufacturing,British Columbia,Oct,811.47,60,15,8,97,176,No,6,Yes,Yes,Medium,Yes
+Enterprise,Retail,Prairies,Jul,45462.39,15,22,0,17,51,No,0,Yes,No,Medium,Yes
+Small Business,Healthcare Services,Quebec,Mar,6671.67,30,19,2,39,123,Yes,3,No,No,Medium,Yes
+Small Business,Technology,Atlantic Canada,Mar,1277.8,15,3,0,24,129,No,2,No,Yes,Medium,No
+Mid-Market,Retail,Quebec,Sep,24539.76,45,26,0,60,22,No,0,No,No,High,No
+Mid-Market,Retail,Alberta,Sep,20075.8,15,10,0,19,61,No,2,Yes,No,Medium,No
+Enterprise,Manufacturing,Ontario,Sep,80546.45,15,39,0,18,144,Yes,3,Yes,No,Medium,Yes
+Small Business,Healthcare Services,Prairies,Nov,2936.99,45,44,1,48,174,No,1,Yes,No,High,No
+Mid-Market,Retail,British Columbia,Oct,22996.36,45,15,1,70,112,No,0,Yes,Yes,Medium,Yes
+Small Business,Retail,British Columbia,Dec,1738.22,15,29,3,30,174,No,1,Yes,No,Low,Yes
+Mid-Market,Manufacturing,Alberta,Nov,28463.87,30,23,2,50,158,Yes,6,Yes,No,Medium,Yes
+Mid-Market,Technology,Prairies,May,15709.89,30,35,0,40,69,No,2,No,Yes,Low,No
+Mid-Market,Professional Services,Atlantic Canada,Nov,12612.6,30,16,0,28,101,Yes,3,No,No,High,No
+Small Business,Professional Services,British Columbia,May,4490.11,30,43,3,54,67,No,2,No,No,Medium,Yes
+Small Business,Professional Services,Ontario,Jul,1929.09,30,42,1,40,136,No,0,Yes,No,Medium,No
+Mid-Market,Healthcare Services,Alberta,Aug,30206.56,30,38,1,43,77,No,0,Yes,No,High,No
+Mid-Market,Retail,British Columbia,Aug,16576.26,30,52,1,36,117,No,0,No,No,High,Yes
+Enterprise,Manufacturing,Alberta,Apr,38366.09,30,73,1,36,76,No,1,Yes,Yes,Medium,No
+Mid-Market,Retail,British Columbia,Oct,8059.13,15,21,5,26,22,No,3,No,No,Medium,Yes
+Enterprise,Manufacturing,Ontario,May,79361.02,45,13,1,62,73,No,3,Yes,No,Medium,Yes
+Enterprise,Retail,Prairies,Jul,71080.19,15,21,0,25,95,No,1,Yes,No,Medium,No
+Small Business,Retail,Atlantic Canada,Jul,7042.19,45,23,5,58,53,No,4,Yes,No,Medium,Yes
+Mid-Market,Retail,British Columbia,Oct,7698.15,30,62,0,31,13,No,0,Yes,No,High,No
+Mid-Market,Manufacturing,Alberta,Aug,4499.51,15,78,3,25,105,No,2,Yes,No,High,Yes
+Mid-Market,Professional Services,Atlantic Canada,Sep,25995.24,30,82,1,37,160,No,2,No,No,High,Yes
+Enterprise,Retail,British Columbia,Aug,62809.38,30,95,1,47,44,No,3,Yes,No,Medium,Yes
+Small Business,Construction,Prairies,Jun,6220.76,30,29,0,38,141,Yes,2,Yes,No,Medium,No
+Small Business,Construction,Quebec,Apr,1889.88,30,11,0,26,58,No,1,No,Yes,High,No
+Small Business,Retail,British Columbia,Sep,8362.92,30,17,1,34,43,No,2,Yes,No,High,No
+Small Business,Construction,Prairies,Sep,1504.56,45,31,0,42,88,No,1,No,Yes,Low,No
+Enterprise,Healthcare Services,Atlantic Canada,Nov,87544.9,30,88,0,38,54,No,0,Yes,No,Medium,No
+Mid-Market,Manufacturing,British Columbia,Jan,6511.51,60,32,1,66,24,No,1,Yes,No,Medium,Yes
+Small Business,Technology,Atlantic Canada,Jul,1900.05,30,18,3,45,158,No,2,Yes,No,Medium,Yes
+Small Business,Retail,Prairies,Mar,5038.04,15,19,0,26,142,No,0,Yes,No,Low,Yes
+Small Business,Construction,Ontario,Jul,1079.93,30,7,0,23,111,No,1,No,No,Low,Yes
+Small Business,Healthcare Services,Quebec,May,3618.24,15,24,0,25,173,No,0,No,Yes,Low,No
+Small Business,Construction,Atlantic Canada,Aug,3920.66,30,48,0,38,180,No,1,Yes,Yes,Medium,Yes
+Enterprise,Manufacturing,Quebec,Nov,62691.03,30,46,0,39,105,No,1,Yes,Yes,Medium,No
+Small Business,Retail,Atlantic Canada,Feb,8357.92,30,26,1,34,166,No,0,Yes,No,Medium,Yes
+Small Business,Manufacturing,Quebec,Dec,6207.32,60,6,0,78,69,No,0,Yes,No,High,No
+Mid-Market,Technology,Quebec,Feb,28856.1,45,35,0,51,20,No,1,Yes,No,Medium,No
+Enterprise,Technology,Quebec,Mar,43322.2,45,29,2,63,133,No,2,No,No,Medium,Yes
+Mid-Market,Professional Services,Prairies,Jun,18436.33,30,71,0,39,61,No,0,Yes,No,Low,No
+Small Business,Manufacturing,Ontario,Jan,6696.74,15,30,4,18,3,No,4,Yes,No,Low,No
+Mid-Market,Professional Services,Alberta,Aug,17059.81,30,7,1,46,143,No,3,Yes,No,High,Yes
+Small Business,Professional Services,Ontario,Mar,1114.17,15,43,1,21,147,No,1,Yes,Yes,High,Yes
+Small Business,Healthcare Services,Prairies,Jan,5813.38,45,44,1,54,104,No,1,No,No,Medium,Yes
+Enterprise,Manufacturing,Atlantic Canada,Mar,62224.27,30,44,0,44,152,No,0,Yes,No,Medium,Yes
+Enterprise,Manufacturing,Alberta,Jan,84317.04,30,82,2,42,87,No,1,Yes,No,Medium,No
+Small Business,Construction,Atlantic Canada,Dec,3845.09,60,40,1,70,102,No,2,No,Yes,High,No
+Small Business,Construction,Atlantic Canada,Mar,2286.03,45,14,2,45,155,Yes,2,Yes,No,High,Yes
+Small Business,Healthcare Services,Alberta,Jan,6039.06,60,30,0,58,139,No,2,No,No,Medium,No
+Small Business,Manufacturing,Prairies,Nov,1489.24,30,46,0,39,150,Yes,1,No,No,High,Yes
+Small Business,Healthcare Services,Quebec,Dec,3049.92,30,36,1,22,140,No,4,Yes,No,High,Yes
+Small Business,Technology,Ontario,Sep,1664.37,30,10,1,26,11,No,0,No,No,Medium,No
+Mid-Market,Manufacturing,Alberta,Jun,31539.25,45,64,1,57,117,No,2,No,No,Medium,No
+Small Business,Manufacturing,Quebec,Feb,7205.75,30,8,6,70,71,No,3,No,Yes,Low,Yes
+Small Business,Technology,Ontario,Dec,2745.48,30,29,1,39,127,No,2,Yes,No,High,Yes
+Small Business,Manufacturing,Alberta,Mar,3808.28,15,27,1,31,80,No,2,Yes,Yes,Low,Yes
+Small Business,Construction,British Columbia,Jan,1377.24,45,45,4,62,99,No,2,Yes,No,Medium,Yes
+Small Business,Healthcare Services,Alberta,Feb,3100.69,30,35,5,46,180,No,5,Yes,No,Medium,Yes
+Small Business,Professional Services,Atlantic Canada,Mar,3514.86,30,18,1,36,123,No,1,Yes,No,Low,Yes
+Enterprise,Retail,British Columbia,Mar,49962.79,45,34,0,55,175,No,0,Yes,No,High,No
+Mid-Market,Construction,British Columbia,Feb,30856.13,30,46,0,27,156,No,0,No,No,High,No
+Small Business,Construction,British Columbia,Nov,8293.86,45,25,2,46,105,No,4,Yes,No,High,Yes
+Mid-Market,Retail,Atlantic Canada,Jun,28684.11,15,50,1,10,52,No,1,No,No,High,No
+Small Business,Construction,Quebec,Apr,1787.0,30,29,0,46,105,No,0,No,No,Medium,No
+Small Business,Retail,Ontario,Jan,4451.53,60,42,1,72,152,No,0,Yes,Yes,Medium,No
+Mid-Market,Manufacturing,Prairies,Jun,25954.56,30,30,1,45,173,No,2,Yes,No,Medium,Yes
+Small Business,Retail,Prairies,Jul,909.24,30,39,1,38,50,No,0,Yes,No,Medium,No
+Mid-Market,Technology,Quebec,Sep,21654.14,45,30,0,41,59,No,0,No,Yes,Medium,Yes
+Mid-Market,Professional Services,British Columbia,Feb,15941.8,30,8,1,32,54,No,1,No,No,High,No
+Small Business,Construction,Atlantic Canada,Aug,1157.34,45,44,1,55,25,Yes,3,Yes,No,Medium,Yes
+Enterprise,Retail,Atlantic Canada,Nov,76527.94,30,14,2,45,100,No,1,Yes,Yes,High,No
+Small Business,Technology,Prairies,Mar,2903.75,45,38,1,50,155,No,1,Yes,No,Medium,No
+Enterprise,Technology,Alberta,Feb,54948.03,45,83,0,48,110,No,1,Yes,No,Medium,No
+Small Business,Professional Services,British Columbia,Apr,837.5,30,19,0,42,23,No,0,Yes,No,Medium,No
+Mid-Market,Manufacturing,British Columbia,May,31463.9,30,53,0,30,10,No,0,Yes,No,High,No
+Small Business,Professional Services,Quebec,Aug,3885.76,45,46,1,60,80,No,1,Yes,No,Low,Yes
+Mid-Market,Healthcare Services,Quebec,Jul,9964.35,30,53,0,24,18,No,0,Yes,No,Medium,No
+Mid-Market,Construction,British Columbia,Jul,11000.4,15,19,1,15,159,No,0,No,No,Medium,No
+Mid-Market,Healthcare Services,Ontario,Jul,17429.25,15,57,1,33,131,No,2,Yes,No,High,Yes
+Enterprise,Healthcare Services,Atlantic Canada,Apr,84326.7,30,34,0,49,117,No,1,Yes,No,High,Yes
+Enterprise,Technology,Alberta,Jan,82533.57,45,114,0,56,7,No,2,Yes,Yes,High,No
+Mid-Market,Manufacturing,Atlantic Canada,Feb,29935.62,30,11,1,39,132,No,0,Yes,No,Low,Yes
+Small Business,Construction,British Columbia,Jan,5026.4,30,12,0,19,35,No,1,No,Yes,High,Yes
+Mid-Market,Technology,British Columbia,Oct,29772.62,45,55,1,48,72,No,0,Yes,No,High,No
+Small Business,Retail,Quebec,Dec,5756.64,45,39,0,46,150,No,1,Yes,No,Medium,No
+Mid-Market,Professional Services,British Columbia,May,6932.39,45,75,2,56,128,No,3,Yes,Yes,Medium,Yes
+Small Business,Professional Services,Atlantic Canada,Jun,3404.85,15,26,1,38,141,No,0,Yes,Yes,Low,No
+Small Business,Technology,Quebec,Oct,7483.02,30,6,0,38,168,No,1,Yes,No,High,Yes
+Enterprise,Technology,Quebec,Nov,68970.68,30,67,2,40,76,No,0,Yes,Yes,Medium,No
+Enterprise,Retail,Prairies,Jun,50454.71,45,89,0,52,135,No,0,Yes,No,High,Yes
+Mid-Market,Professional Services,Prairies,Nov,24129.97,30,23,0,30,118,No,0,Yes,Yes,High,No
+Small Business,Retail,Prairies,Feb,6428.6,30,27,0,34,78,Yes,1,Yes,No,High,No
+Small Business,Construction,Quebec,Mar,1129.59,30,32,2,49,20,Yes,4,Yes,Yes,Medium,Yes
+Enterprise,Technology,Atlantic Canada,Nov,47235.34,30,96,1,42,65,No,1,No,No,Medium,Yes
+Small Business,Construction,Quebec,Sep,5716.57,15,45,2,34,64,No,1,No,No,Medium,Yes
+Enterprise,Retail,Quebec,Jan,74059.76,30,107,1,33,133,No,0,No,Yes,High,No
+Enterprise,Professional Services,Atlantic Canada,Apr,80181.83,30,14,0,44,41,No,1,No,No,High,Yes
+Enterprise,Technology,Quebec,Mar,80420.35,30,113,0,30,57,No,0,Yes,No,Low,No
+Small Business,Professional Services,Alberta,Oct,6149.78,45,12,1,38,101,No,0,Yes,No,High,No
+Small Business,Manufacturing,Quebec,Feb,8415.56,30,40,0,40,4,No,0,Yes,No,Medium,No
+Enterprise,Healthcare Services,Atlantic Canada,Mar,93978.77,30,48,0,46,87,No,1,Yes,No,Low,Yes
+Small Business,Retail,Atlantic Canada,Aug,1277.3,15,9,1,31,12,No,2,No,No,Medium,No
+Enterprise,Construction,Ontario,Feb,25341.73,15,68,1,33,44,No,1,Yes,No,Medium,No
+Mid-Market,Professional Services,Quebec,Nov,26473.15,45,49,0,54,33,No,1,Yes,Yes,Medium,No
+Mid-Market,Manufacturing,Ontario,Jun,26197.67,30,47,0,30,159,No,0,Yes,No,Medium,Yes
+Mid-Market,Healthcare Services,British Columbia,Sep,26812.44,45,83,0,64,98,No,0,Yes,No,Low,No
+Mid-Market,Healthcare Services,Ontario,Feb,29914.39,30,76,0,36,44,No,1,Yes,No,High,No
+Enterprise,Healthcare Services,Prairies,Nov,90503.48,60,119,0,56,72,No,1,Yes,No,Medium,No
+Mid-Market,Professional Services,British Columbia,Oct,27630.5,45,29,2,48,34,No,3,No,No,High,No
+Small Business,Technology,Ontario,May,2036.91,30,17,0,43,135,No,2,No,No,Medium,No
+Small Business,Construction,British Columbia,Nov,6555.09,45,8,1,60,29,No,2,Yes,No,Low,No
+Mid-Market,Professional Services,Prairies,Jan,7636.23,60,57,4,70,173,No,3,Yes,Yes,Medium,No
+Enterprise,Healthcare Services,Prairies,Sep,54101.23,30,112,1,52,76,No,1,No,Yes,Medium,Yes
+Mid-Market,Technology,Ontario,Nov,17095.6,30,71,0,34,13,No,3,Yes,No,Medium,No
+Small Business,Professional Services,Atlantic Canada,Oct,3712.86,15,22,0,8,143,No,0,Yes,No,Medium,No
+Mid-Market,Healthcare Services,Quebec,Dec,26706.75,30,83,1,35,30,No,1,No,Yes,Medium,No
+Small Business,Construction,Ontario,Aug,5838.7,15,9,2,37,118,No,0,Yes,Yes,Medium,No
+Mid-Market,Retail,Prairies,Jan,15298.3,60,49,0,66,40,No,1,No,No,Medium,No
+Enterprise,Professional Services,Prairies,Mar,70945.17,30,62,0,34,99,No,2,Yes,No,Medium,No
+Small Business,Construction,Prairies,Apr,2643.17,45,14,5,77,11,No,3,Yes,No,Low,Yes
+Mid-Market,Construction,Alberta,Jun,28468.53,30,11,1,43,106,No,0,Yes,No,Medium,No
+Mid-Market,Retail,British Columbia,Nov,16088.9,15,84,0,14,45,No,0,No,Yes,Low,No
+Enterprise,Technology,British Columbia,Aug,38328.31,30,103,0,26,180,No,2,Yes,No,High,No
+Mid-Market,Healthcare Services,British Columbia,Jul,26975.7,60,9,2,69,97,No,2,Yes,No,High,No
+Small Business,Professional Services,British Columbia,Feb,5059.95,45,38,1,64,122,No,3,Yes,No,Medium,Yes
+Small Business,Construction,British Columbia,Nov,5403.51,15,25,4,30,58,No,3,Yes,No,Low,No
+Mid-Market,Manufacturing,Atlantic Canada,Oct,28561.54,30,36,0,23,158,Yes,1,No,No,Low,Yes
+Mid-Market,Manufacturing,Prairies,Dec,19669.97,15,9,0,28,153,No,0,Yes,No,Medium,Yes
+Mid-Market,Technology,British Columbia,Jul,8400.6,30,59,0,52,37,No,2,Yes,Yes,Medium,No
+Mid-Market,Retail,British Columbia,Dec,13999.7,30,75,0,16,168,Yes,0,Yes,No,Medium,No
+Mid-Market,Healthcare Services,Alberta,Mar,24402.25,30,84,1,32,110,No,0,Yes,No,Low,Yes
+Enterprise,Retail,British Columbia,Nov,43011.44,45,119,2,58,11,No,3,Yes,No,High,No
+Enterprise,Retail,British Columbia,Jan,57226.64,45,118,0,50,8,No,0,No,No,Medium,No
+Small Business,Professional Services,Quebec,Jul,5642.67,45,14,5,67,61,No,1,Yes,Yes,High,Yes
+Mid-Market,Healthcare Services,Alberta,Sep,5072.92,30,60,0,34,156,No,1,Yes,No,Medium,No
+Small Business,Professional Services,Alberta,Jan,1296.34,45,35,5,64,132,No,3,Yes,No,High,No
+Enterprise,Healthcare Services,British Columbia,Aug,28132.65,30,105,1,34,151,No,1,No,Yes,Low,Yes
+Mid-Market,Retail,Alberta,May,16025.66,30,63,0,38,40,Yes,3,No,Yes,Medium,Yes
+Mid-Market,Construction,Quebec,Dec,26753.28,30,76,0,35,85,No,1,Yes,No,High,No
+Mid-Market,Technology,Prairies,May,21074.29,30,40,0,34,137,Yes,1,Yes,No,Medium,No
+Small Business,Technology,Atlantic Canada,Nov,958.65,60,46,0,65,40,No,0,No,No,Medium,Yes
+Mid-Market,Technology,Prairies,Apr,14493.98,45,59,0,55,123,No,3,Yes,No,Medium,No
+Small Business,Professional Services,Alberta,Jul,4431.36,30,42,1,39,40,No,2,No,Yes,Medium,No
+Mid-Market,Healthcare Services,Atlantic Canada,Oct,19812.78,60,34,4,71,76,No,4,Yes,Yes,Medium,Yes
+Mid-Market,Construction,Atlantic Canada,Feb,21249.74,15,79,4,30,123,No,2,Yes,Yes,Medium,Yes
+Small Business,Technology,Alberta,Nov,7794.08,30,11,0,39,64,No,2,Yes,No,Medium,No
+Small Business,Manufacturing,British Columbia,Sep,1835.24,30,34,1,51,60,No,2,Yes,No,Medium,Yes
+Mid-Market,Professional Services,British Columbia,Nov,22110.58,30,40,0,29,58,No,2,Yes,Yes,High,No
+Mid-Market,Retail,Prairies,Jun,29760.06,45,70,1,47,9,No,0,Yes,No,High,No
+Small Business,Construction,Quebec,Mar,1802.99,15,27,1,27,44,No,1,No,No,Medium,No
+Small Business,Technology,Ontario,Mar,1497.62,30,48,2,51,32,Yes,4,Yes,No,Low,Yes
+Mid-Market,Retail,Ontario,Oct,22299.37,45,84,1,51,3,No,0,No,Yes,High,No
+Enterprise,Construction,Alberta,Jun,66271.76,60,76,1,63,86,No,1,Yes,No,Low,No
+Mid-Market,Healthcare Services,Quebec,Aug,13813.14,15,72,0,18,169,Yes,3,Yes,No,High,Yes
+Mid-Market,Construction,Quebec,Jul,26085.39,45,49,1,56,53,No,2,Yes,No,Medium,No
+Small Business,Professional Services,Alberta,Feb,3415.43,45,33,0,53,92,No,2,Yes,Yes,High,No
+Mid-Market,Retail,Atlantic Canada,Mar,22729.29,45,53,0,51,65,No,0,No,No,Medium,No
+Mid-Market,Retail,British Columbia,Jun,15978.52,15,24,0,8,180,No,0,Yes,Yes,Medium,No
+Enterprise,Manufacturing,Ontario,Jul,69866.47,45,70,0,47,81,No,1,No,No,Medium,Yes
+Mid-Market,Professional Services,Ontario,Nov,17432.89,30,65,3,41,101,No,4,Yes,No,Medium,Yes
+Small Business,Healthcare Services,Alberta,Apr,1323.34,45,47,0,50,102,No,1,Yes,No,Medium,No
+Small Business,Construction,Alberta,Jun,6818.98,45,21,1,55,171,No,1,No,No,Medium,Yes
+Mid-Market,Retail,Atlantic Canada,Dec,4790.48,15,21,0,27,173,No,0,Yes,No,High,No
+Mid-Market,Professional Services,Alberta,Apr,27206.11,30,57,1,41,152,No,2,No,Yes,High,No
+Enterprise,Manufacturing,British Columbia,Dec,92923.07,45,24,1,62,93,No,2,Yes,No,Low,Yes
+Enterprise,Manufacturing,Quebec,Jul,57001.01,45,23,1,41,135,No,0,Yes,Yes,Medium,Yes
+Enterprise,Healthcare Services,Alberta,Apr,27684.84,60,62,0,57,61,No,0,Yes,Yes,Low,Yes
+Mid-Market,Retail,Quebec,May,17766.41,60,47,1,63,38,No,2,Yes,No,Low,Yes
+Mid-Market,Manufacturing,British Columbia,Aug,24532.46,60,56,0,66,13,Yes,3,Yes,No,Medium,Yes
+Mid-Market,Retail,Quebec,Oct,5553.67,30,36,1,32,41,Yes,1,Yes,Yes,Medium,No
+Mid-Market,Professional Services,Ontario,Mar,18358.62,30,43,2,49,170,No,2,Yes,No,Low,Yes
+Mid-Market,Manufacturing,Ontario,Jul,14875.07,60,17,0,69,24,No,0,Yes,No,Medium,No
+Small Business,Construction,Alberta,Apr,3026.74,15,28,2,23,92,No,2,Yes,Yes,Medium,Yes
+Mid-Market,Manufacturing,Ontario,Nov,26160.39,30,20,1,30,82,Yes,3,No,No,High,Yes
+Mid-Market,Manufacturing,Alberta,Jun,14535.46,30,53,1,32,121,No,0,Yes,Yes,Low,No
+Mid-Market,Retail,Atlantic Canada,Nov,19163.39,45,72,1,47,50,No,0,Yes,No,Medium,Yes
+Mid-Market,Professional Services,Alberta,Apr,14299.86,30,55,0,20,133,No,0,Yes,Yes,Medium,No
+Enterprise,Professional Services,Prairies,May,69722.53,30,97,0,33,163,No,2,Yes,No,High,Yes
+Small Business,Manufacturing,British Columbia,Sep,1465.01,30,21,1,31,146,Yes,4,No,No,Medium,Yes
+Mid-Market,Healthcare Services,Atlantic Canada,Jul,6362.86,30,43,0,23,18,No,0,Yes,No,Low,No
+Small Business,Professional Services,Alberta,Nov,3005.16,30,31,0,41,137,No,0,Yes,No,High,Yes
+Enterprise,Manufacturing,Atlantic Canada,May,94238.02,45,76,0,55,31,No,2,Yes,Yes,High,No
+Small Business,Professional Services,Alberta,Sep,1683.94,30,13,2,40,48,No,2,Yes,Yes,High,No
+Mid-Market,Professional Services,British Columbia,May,12140.79,45,54,0,59,24,No,1,No,No,High,Yes
+Enterprise,Professional Services,Prairies,Mar,36712.32,15,116,0,23,81,No,2,No,No,Low,No
+Small Business,Manufacturing,Atlantic Canada,Jun,4996.0,30,39,3,44,124,No,4,No,No,Medium,Yes
+Mid-Market,Manufacturing,British Columbia,Mar,25909.22,15,48,2,24,171,No,1,Yes,No,Medium,Yes
+Small Business,Manufacturing,Prairies,Oct,4113.34,45,44,4,64,40,No,4,No,No,High,Yes
+Small Business,Technology,Quebec,Aug,1936.87,30,38,0,36,10,Yes,3,Yes,No,High,No
+Mid-Market,Retail,Ontario,Aug,17718.82,30,34,0,24,125,No,2,No,No,Low,No
+Small Business,Retail,Prairies,Feb,6470.01,30,8,1,24,168,No,2,Yes,No,Medium,No
+Mid-Market,Healthcare Services,British Columbia,Apr,26660.8,60,13,0,69,173,No,0,Yes,No,Low,Yes
+Mid-Market,Construction,Alberta,Aug,16167.79,15,78,0,15,38,No,0,Yes,Yes,Low,No
+Small Business,Manufacturing,British Columbia,May,6230.3,30,48,1,27,17,No,1,Yes,No,Medium,No
+Mid-Market,Retail,Atlantic Canada,Sep,18315.55,30,50,0,18,12,No,1,Yes,No,Medium,No
+Small Business,Manufacturing,Quebec,Aug,3235.68,60,22,0,73,88,No,0,Yes,No,Low,No
+Small Business,Professional Services,Prairies,Sep,7569.71,45,14,0,47,37,No,0,Yes,No,High,No
+Enterprise,Construction,Quebec,Dec,72571.8,30,104,0,32,158,No,0,Yes,Yes,Medium,Yes
+Enterprise,Retail,Prairies,Oct,47739.24,30,39,0,37,129,No,1,No,Yes,High,Yes
+Small Business,Healthcare Services,Prairies,Nov,1079.12,45,32,1,49,155,No,1,Yes,No,Medium,No
+Small Business,Manufacturing,Prairies,Jun,8460.69,45,31,2,47,50,No,2,No,No,Low,No
+Small Business,Construction,Ontario,Oct,3055.92,30,18,0,38,174,No,0,Yes,Yes,Medium,No
+Mid-Market,Professional Services,Atlantic Canada,Feb,13798.58,45,79,1,47,81,No,1,No,No,Medium,No
+Small Business,Healthcare Services,Ontario,Jul,7594.01,30,36,0,38,164,No,0,Yes,Yes,Medium,No
+Mid-Market,Technology,Prairies,May,31286.74,60,54,0,74,137,No,0,Yes,No,High,No
+Small Business,Manufacturing,Prairies,Sep,3265.19,45,15,1,68,120,No,1,Yes,No,Medium,Yes
+Small Business,Technology,Alberta,Jan,7501.19,30,13,0,43,75,Yes,3,Yes,No,Medium,Yes
+Small Business,Technology,Prairies,Mar,1534.85,15,6,2,20,131,No,2,Yes,No,High,No
+Enterprise,Construction,Alberta,Jun,66128.35,45,120,0,69,70,Yes,3,Yes,No,Medium,Yes
+Small Business,Retail,Alberta,Aug,1171.8,30,18,0,40,175,No,1,Yes,No,High,No
+Mid-Market,Retail,Atlantic Canada,Dec,8349.03,30,21,0,45,56,No,0,Yes,No,Medium,No
+Small Business,Technology,Ontario,Dec,5351.64,45,26,1,66,102,No,3,Yes,No,Low,Yes
+Mid-Market,Professional Services,Ontario,Nov,14629.52,30,60,2,43,170,No,1,No,No,Medium,Yes
+Mid-Market,Manufacturing,Prairies,Jul,30701.91,60,65,1,54,38,No,0,Yes,No,Medium,No
+Small Business,Healthcare Services,Quebec,Jan,6806.29,45,10,0,59,128,No,0,Yes,No,Medium,No
+Small Business,Construction,Quebec,Jul,2688.88,15,33,2,31,133,No,2,Yes,No,Low,Yes
+Enterprise,Retail,Atlantic Canada,Aug,37180.88,30,95,0,42,79,No,3,No,Yes,Medium,No
+Small Business,Retail,Ontario,Oct,940.22,60,23,1,66,99,No,3,Yes,No,Low,No
+Small Business,Healthcare Services,Quebec,Dec,7652.38,15,39,3,30,73,No,3,No,No,Low,Yes
+Enterprise,Manufacturing,Ontario,Oct,24862.83,60,99,1,71,20,No,1,No,No,Low,Yes
+Small Business,Professional Services,Atlantic Canada,Feb,2057.34,30,48,1,37,89,No,1,Yes,No,Medium,No
+Mid-Market,Retail,Prairies,Mar,20695.83,15,34,1,26,102,No,2,Yes,No,Medium,No
+Small Business,Manufacturing,Alberta,May,4056.46,45,23,1,67,127,No,1,Yes,No,Low,Yes
+Mid-Market,Healthcare Services,Alberta,Aug,4545.68,30,49,2,29,121,No,2,No,No,Medium,No
+Mid-Market,Manufacturing,British Columbia,Aug,9028.02,30,14,0,49,67,No,1,Yes,No,Medium,No
+Mid-Market,Construction,British Columbia,Aug,24172.79,30,82,0,29,22,No,0,No,No,Medium,No
+Small Business,Construction,British Columbia,Jun,6151.04,30,38,0,36,57,No,0,Yes,No,Medium,Yes
+Small Business,Construction,Alberta,Jun,5216.71,60,9,0,57,32,No,0,Yes,No,Medium,No
+Small Business,Retail,Quebec,Jan,5173.7,30,18,0,30,30,No,1,No,No,High,Yes
+Enterprise,Healthcare Services,Atlantic Canada,Apr,80833.37,45,99,0,57,149,No,1,Yes,No,Medium,Yes
+Enterprise,Construction,Ontario,Nov,80247.2,30,72,1,44,98,No,2,Yes,No,Low,Yes
+Small Business,Technology,Ontario,Jul,3630.29,30,27,1,41,100,No,1,Yes,Yes,High,No
+Small Business,Retail,Alberta,May,6784.94,30,12,1,46,101,Yes,2,Yes,No,High,Yes
+Enterprise,Manufacturing,Alberta,Aug,42914.67,30,91,4,44,51,No,5,Yes,No,Low,Yes
+Mid-Market,Manufacturing,Prairies,Jun,9942.06,30,39,0,40,112,No,0,No,Yes,Low,No
+Mid-Market,Professional Services,Atlantic Canada,Sep,6951.45,15,36,0,14,7,No,2,Yes,Yes,Low,No
+Small Business,Retail,British Columbia,Apr,3823.99,30,19,3,35,152,No,2,No,No,Medium,Yes
+Mid-Market,Professional Services,Atlantic Canada,Jan,24048.52,30,77,0,44,151,No,1,No,Yes,High,No
+Small Business,Professional Services,Ontario,Oct,4276.41,15,8,0,20,83,No,0,Yes,No,High,No
+Small Business,Manufacturing,Quebec,Feb,3467.09,45,47,2,62,145,No,3,Yes,No,Medium,Yes
+Enterprise,Technology,Quebec,Mar,19106.96,30,52,0,36,115,No,0,No,No,Medium,No
+Small Business,Technology,Ontario,Nov,3418.97,30,3,2,51,152,No,3,Yes,No,Medium,Yes
+Small Business,Professional Services,Alberta,Apr,4555.94,45,30,3,66,95,No,3,No,No,High,Yes
+Small Business,Construction,Ontario,Feb,2047.22,30,45,1,44,3,No,0,No,No,Medium,No
+Small Business,Professional Services,Ontario,Sep,5504.04,30,40,0,25,29,No,1,No,No,High,No
+Small Business,Manufacturing,Alberta,Apr,6623.72,30,16,2,30,25,No,0,Yes,No,Medium,No
+Small Business,Professional Services,Alberta,Nov,678.53,60,19,0,64,129,No,0,Yes,No,High,No
+Mid-Market,Manufacturing,Alberta,Aug,12184.76,60,69,0,70,122,No,0,Yes,Yes,Low,No
+Mid-Market,Healthcare Services,Prairies,Mar,8003.85,30,24,2,35,49,No,3,Yes,Yes,Medium,No
+Mid-Market,Professional Services,Ontario,Sep,21385.22,30,53,0,38,73,No,1,Yes,No,High,No
+Mid-Market,Professional Services,Atlantic Canada,Jan,25493.17,60,54,0,73,4,No,1,No,No,Medium,No
+Small Business,Technology,Quebec,Mar,6805.08,60,14,2,71,107,No,2,Yes,No,High,No
+Mid-Market,Healthcare Services,Atlantic Canada,Dec,21076.51,45,78,0,55,88,No,1,Yes,Yes,Medium,No
+Mid-Market,Construction,Alberta,Jul,17418.59,30,79,0,25,135,No,0,Yes,No,High,No
+Small Business,Manufacturing,British Columbia,Apr,6511.06,45,24,0,29,150,No,2,No,Yes,Low,Yes
+Small Business,Manufacturing,British Columbia,Feb,5472.77,30,5,1,42,173,No,1,Yes,No,High,No
+Enterprise,Healthcare Services,Alberta,Jun,15377.77,45,86,0,46,171,No,0,Yes,No,Medium,No
+Small Business,Retail,Alberta,Aug,2788.04,45,12,1,53,67,No,0,Yes,No,High,Yes
+Small Business,Technology,British Columbia,Oct,7220.34,45,13,5,59,88,Yes,4,Yes,No,Medium,Yes
+Small Business,Manufacturing,Prairies,May,5643.34,45,23,1,46,59,No,0,Yes,Yes,Medium,No
+Mid-Market,Manufacturing,British Columbia,Dec,20171.15,30,52,1,40,48,No,0,No,No,High,No
+Mid-Market,Professional Services,British Columbia,Jun,31543.58,45,66,1,41,18,Yes,2,Yes,Yes,Medium,No
+Enterprise,Retail,Ontario,Jul,43959.18,45,96,0,46,171,No,1,No,No,High,Yes
+Small Business,Healthcare Services,Alberta,Feb,8291.42,60,18,1,73,77,No,4,No,No,Medium,Yes
+Small Business,Professional Services,Quebec,Jun,4826.58,45,32,1,58,14,No,0,Yes,No,Medium,Yes
+Small Business,Retail,Prairies,Apr,6833.09,45,22,1,55,53,No,0,No,No,Medium,No
+Small Business,Professional Services,Alberta,Jun,6184.23,45,23,3,65,154,No,2,No,No,High,Yes
+Small Business,Manufacturing,British Columbia,Apr,6359.48,15,8,1,26,9,No,0,Yes,No,Medium,No
+Mid-Market,Retail,Quebec,Oct,15507.29,30,12,0,24,9,No,1,No,No,Medium,No
+Mid-Market,Manufacturing,Alberta,Feb,26096.82,30,7,0,22,57,Yes,2,Yes,No,Medium,No
+Mid-Market,Professional Services,British Columbia,Jan,8104.53,30,55,3,32,152,No,4,Yes,No,High,Yes
+Small Business,Professional Services,Atlantic Canada,Dec,4340.22,45,2,2,54,14,No,0,No,No,Low,Yes

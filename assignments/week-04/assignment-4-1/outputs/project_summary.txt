@@ -1,0 +1,28 @@
+
+Decision Tree Classification Project: PayFlow Invoice Late Payment Prediction
+
+Business Problem:
+Predict whether an invoice will be paid late based on customer information, invoice details, payment behavior, and account-related features.
+
+Model Used:
+Decision Tree Classification Model
+
+Evaluation Metrics:
+Accuracy, Precision, Recall, F1-Score, Confusion Matrix, Training Accuracy, and Testing Accuracy
+
+Main Results:
+Training Accuracy: 1.0000
+Testing Accuracy: 0.5694
+Accuracy: 0.5694
+Precision: 0.5152
+Recall: 0.5312
+F1-Score: 0.5231
+
+Main Business Value:
+The model can help PayFlow identify invoices that may be at risk of late payment. This can support early reminders, account manager support, dispute resolution, and cash-flow planning.
+
+Limitation:
+The model showed signs of overfitting because training accuracy was much higher than testing accuracy. The dataset is also simplified and may not include all real-world payment factors.
+
+Responsible AI Reminder:
+The model should support human decision-making and should not replace staff review.

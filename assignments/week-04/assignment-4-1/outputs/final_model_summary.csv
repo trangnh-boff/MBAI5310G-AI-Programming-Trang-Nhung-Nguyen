@@ -1,0 +1,7 @@
+Metric,Decision Tree Result
+Training Accuracy,1.0
+Testing Accuracy,0.5694444444444444
+Accuracy,0.5694444444444444
+Precision,0.5151515151515151
+Recall,0.53125
+F1-score,0.5230769230769231
