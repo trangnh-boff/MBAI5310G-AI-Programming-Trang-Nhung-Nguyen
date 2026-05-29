@@ -75,4 +75,4 @@ Important features such as invoice amount, prior late payments, average days to 
 
 ## One Limitation
 
-One limitation is that the dataset is simplified and may not include all real-world factors that affect payment behavior. Real payment behavior may depend on customer financial stress, contract terms, approval workflows, seasonal business cycles, economic conditions, or customer relationships. Because of this, the model should support human judgment and should not replace staff review.
+One limitation is that the dataset is simplified and may not include all real world factors that affect payment behavior. Real payment behavior may depend on customer financial stress, contract terms, approval workflows, or economic conditions. Because of this, the model should support human judgment and should not replace staff review.
