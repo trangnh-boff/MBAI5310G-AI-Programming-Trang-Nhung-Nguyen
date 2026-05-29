@@ -4,7 +4,7 @@
 
 PayFlow Business Solutions is a B2B financial operations company that helps small and medium-sized businesses manage invoicing, payment collection, accounts receivable, payment reminders, online payment portals, and financial reporting dashboards.
 
-The business problem is that late invoice payments can create cash-flow problems for businesses. When customers pay late, companies may struggle to pay suppliers, manage payroll, invest in operations, and plan future growth.
+The business problem is that late invoice payments can create cash flow problems for businesses. When customers pay late, companies may struggle to pay suppliers, manage payroll, invest in operations, and plan future growth.
 
 The goal of this project is to use machine learning to predict whether an invoice is likely to be paid late.
 
