@@ -36,9 +36,9 @@ The Decision Tree model results were:
 - Training Accuracy: 0.8750
 - Testing Accuracy: 0.8333
 - Accuracy: 0.8333
-- Precision for `Renewed_Membership = Yes`: 0.8571
-- Recall for `Renewed_Membership = Yes`: 0.3529
-- F1-score for `Renewed_Membership = Yes`: 0.5000
+- Precision for Renewed_Membership = Yes: 0.8571
+- Recall for Renewed_Membership = Yes: 0.3529
+- F1-score for Renewed_Membership = Yes: 0.5000
 
 The confusion matrix was:
 
@@ -57,26 +57,14 @@ For the No-renewal class, the recall was 0.98, meaning the model identified most
 
 The most important features with meaningful importance were:
 
-- `Monthly_Orders`
-- `App_Sessions_Per_Month`
-- `Late_Deliveries_Last_3M`
-- `Delivery_Rating`
+- Monthly_Orders
+- App_Sessions_Per_Month
+- Late_Deliveries_Last_3M
+- Delivery_Rating
 
 These features can help FreshCart Plus understand how customer activity, app engagement, and delivery experience are related to membership renewal. For example, customers with fewer monthly orders, lower app engagement, more late deliveries, or lower delivery ratings may need customer support follow-up or service recovery before the renewal date.
 
 ## One Limitation
 
-One limitation is that the dataset may not include every real-world reason why customers renew or leave. Customer renewal may also depend on income, local grocery options, product quality preferences, family schedule, competitor pricing, or personal reasons.
+One limitation is that the dataset may not include every real world reason why customers renew or leave. Customer renewal may also depend on income, product quality preferences, family schedule, competitor pricing, or personal reasons. Because of this, the model should be used as a decision-support tool, not as the only basis for business decisions. Human judgment is still important when deciding which customers should receive retention support.
 
-Because of this, the model should be used as a decision-support tool, not as the only basis for business decisions. Human judgment is still important when deciding which customers should receive retention support.
-
-## Repository Contents
-
-This repository includes:
-
-- Completed Jupyter Notebook
-- FreshCart subscription dataset
-- README file
-- Model results
-- Business interpretation
-- Output files and charts generated in the notebook
