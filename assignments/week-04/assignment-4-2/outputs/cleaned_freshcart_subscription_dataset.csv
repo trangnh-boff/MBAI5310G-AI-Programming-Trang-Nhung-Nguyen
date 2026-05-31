@@ -1,0 +1,361 @@
+Customer_ID,Age_Group,City_Type,Membership_Type,Months_As_Customer,Monthly_Orders,Avg_Order_Value,Late_Deliveries_Last_3M,Support_Tickets_Last_3M,Discount_Usage_Rate,App_Sessions_Per_Month,Delivery_Rating,Competitor_Offer_Seen,Payment_Issues_Last_3M,Household_Size,Preferred_Category,Last_Login_Days,Renewed_Membership
+FC10001,35-44,Urban,Basic,16,7,27.99,0,1.0,0.42,31,4.1,No,0,2,Household Essentials,2.0,No
+FC10002,18-24,Suburban,Plus,12,4,64.85,1,0.0,0.29,19,4.4,No,0,2,Pet Supplies,0.0,No
+FC10003,45-54,Suburban,Premium,2,5,85.03,1,0.0,0.29,21,4.2,Yes,0,1,Prepared Meals,9.0,No
+FC10004,35-44,Urban,Plus,20,7,70.37,2,0.0,0.0,24,4.3,Yes,0,3,Fresh Produce,9.0,No
+FC10005,45-54,Urban,Plus,1,8,44.87,1,0.0,0.45,29,4.6,No,0,3,Pet Supplies,19.0,Yes
+FC10006,18-24,Suburban,Plus,13,3,71.27,0,0.0,0.0,9,4.1,No,0,2,Prepared Meals,0.0,Yes
+FC10007,18-24,Suburban,Plus,27,4,49.42,0,0.0,0.0,13,4.2,No,0,5,Baby & Family,17.0,Yes
+FC10008,25-34,Small Town,Plus,8,5,68.85,0,0.0,0.18,10,4.7,Yes,0,1,Fresh Produce,0.0,No
+FC10009,55+,Small Town,Plus,9,2,37.77,1,0.0,0.5,7,4.1,Yes,0,2,Household Essentials,34.0,No
+FC10010,45-54,Urban,Basic,14,3,33.3,2,2.0,0.14,11,3.8,Yes,0,3,Prepared Meals,12.0,No
+FC10011,35-44,Small Town,Basic,8,4,50.81,0,0.0,0.5,13,4.4,Yes,0,2,Baby & Family,5.0,No
+FC10012,55+,Small Town,Plus,13,6,72.96,1,1.0,0.38,26,4.3,No,0,1,Pet Supplies,10.0,No
+FC10013,35-44,Urban,Basic,24,3,18.0,0,1.0,0.4,2,4.0,Yes,0,2,Fresh Produce,0.0,No
+FC10014,45-54,Urban,Plus,7,4,45.63,0,0.0,0.33,16,4.1,No,0,2,Prepared Meals,2.0,Yes
+FC10015,25-34,Small Town,Premium,18,8,70.45,3,2.0,0.0,28,3.6,No,0,1,Pet Supplies,7.0,No
+FC10016,35-44,Small Town,Basic,13,4,48.05,0,0.0,0.09,11,4.4,Yes,0,1,Baby & Family,34.0,No
+FC10017,18-24,Urban,Basic,18,3,19.63,1,0.0,0.29,23,3.8,Yes,0,2,Household Essentials,5.0,No
+FC10018,55+,Urban,Basic,14,2,21.4,0,1.0,0.66,1,4.1,Yes,0,3,Fresh Produce,20.0,No
+FC10019,55+,Suburban,Basic,7,0,43.11,1,0.0,0.15,11,4.1,Yes,0,2,Baby & Family,11.0,No
+FC10020,25-34,Urban,Plus,9,4,72.37,0,0.0,0.2,19,4.5,No,0,3,Household Essentials,7.0,No
+FC10021,25-34,Small Town,Basic,18,3,59.46,1,0.0,0.28,9,3.0,No,0,3,Pet Supplies,17.0,No
+FC10022,55+,Urban,Plus,8,4,78.95,0,0.0,0.13,12,4.2,No,0,1,Prepared Meals,16.0,No
+FC10023,35-44,Urban,Basic,9,2,54.01,0,0.0,0.06,9,4.8,No,1,4,Fresh Produce,15.0,No
+FC10024,25-34,Suburban,Basic,27,1,54.55,1,2.0,0.19,8,3.8,No,0,2,Prepared Meals,4.0,No
+FC10025,35-44,Urban,Basic,19,2,50.54,0,1.0,0.3,23,3.8,No,0,1,Baby & Family,0.0,No
+FC10026,25-34,Urban,Plus,8,6,37.67,0,0.0,0.35,26,4.1,No,0,3,Household Essentials,12.0,Yes
+FC10027,25-34,Urban,Basic,16,6,60.52,0,0.0,0.0,24,3.8,Yes,0,4,Baby & Family,15.0,No
+FC10028,35-44,Urban,Basic,11,4,44.52,0,1.0,0.23,19,3.9,No,0,3,Household Essentials,41.0,No
+FC10029,45-54,Urban,Basic,9,5,25.8,3,0.0,0.76,10,4.1,No,0,2,Pet Supplies,8.0,Yes
+FC10030,18-24,Urban,Plus,16,4,48.84,0,0.0,0.41,15,4.2,No,0,4,Snacks,5.0,Yes
+FC10031,35-44,Small Town,Plus,20,4,66.93,0,0.0,0.03,18,4.9,Yes,0,1,Snacks,5.0,No
+FC10032,18-24,Suburban,Basic,13,1,51.94,0,0.0,0.48,4,4.4,No,0,1,Baby & Family,0.0,No
+FC10033,45-54,Suburban,Basic,14,7,39.83,1,0.0,0.09,24,3.7,No,0,3,Prepared Meals,7.0,No
+FC10034,35-44,Urban,Basic,20,4,59.32,0,0.0,0.04,19,4.1,Yes,0,1,Household Essentials,11.0,No
+FC10035,25-34,Small Town,Plus,8,7,52.97,1,0.0,0.07,26,2.9,No,0,4,Fresh Produce,0.0,No
+FC10036,45-54,Urban,Basic,6,2,66.76,1,1.0,0.46,13,4.5,No,0,2,Fresh Produce,8.0,No
+FC10037,55+,Urban,Premium,16,8,53.04,1,0.0,0.12,36,3.0,Yes,0,4,Prepared Meals,0.0,Yes
+FC10038,55+,Urban,Plus,7,3,65.97,3,2.0,0.47,20,3.2,Yes,0,2,Fresh Produce,18.0,No
+FC10039,25-34,Urban,Basic,10,8,53.52,1,0.0,0.64,21,3.6,Yes,0,3,Fresh Produce,44.0,No
+FC10040,45-54,Suburban,Basic,18,5,60.21,0,0.0,0.11,20,4.3,No,0,2,Fresh Produce,13.0,No
+FC10041,35-44,Small Town,Premium,11,6,100.03,1,0.0,0.27,27,3.9,No,0,1,Fresh Produce,3.0,No
+FC10042,25-34,Suburban,Basic,19,7,33.1,0,0.0,0.26,32,4.6,No,0,4,Household Essentials,7.0,Yes
+FC10043,25-34,Suburban,Plus,14,4,22.07,0,0.0,0.33,29,5.0,No,0,3,Household Essentials,4.0,No
+FC10044,25-34,Urban,Plus,12,3,57.26,0,0.0,0.48,1,4.2,No,0,3,Baby & Family,3.0,No
+FC10045,45-54,Urban,Premium,1,7,71.24,2,0.0,0.0,24,3.9,No,0,3,Household Essentials,1.0,No
+FC10046,35-44,Urban,Plus,15,9,64.16,0,0.0,0.02,39,4.7,No,0,4,Household Essentials,10.0,Yes
+FC10047,25-34,Urban,Basic,12,2,37.78,0,0.0,0.41,6,4.8,No,0,1,Baby & Family,2.0,No
+FC10048,45-54,Urban,Basic,18,0,18.0,3,0.0,0.25,6,2.9,No,0,1,Fresh Produce,0.0,No
+FC10049,25-34,Urban,Plus,1,4,60.13,1,1.0,0.04,18,4.9,Yes,0,2,Fresh Produce,22.0,No
+FC10050,18-24,Urban,Basic,14,1,31.06,0,0.0,0.39,4,3.8,Yes,0,1,Pet Supplies,3.0,No
+FC10051,35-44,Urban,Plus,8,3,77.82,1,0.0,0.23,12,4.8,No,0,4,Household Essentials,2.0,No
+FC10052,35-44,Small Town,Plus,2,4,73.08,0,0.0,0.35,20,4.2,Yes,0,1,Household Essentials,2.0,No
+FC10053,25-34,Suburban,Plus,18,2,52.81,1,1.0,0.2,23,3.7,No,1,2,Snacks,29.0,No
+FC10054,25-34,Suburban,Basic,24,1,58.52,0,1.0,0.07,9,4.5,No,0,1,Prepared Meals,0.0,No
+FC10055,18-24,Urban,Basic,17,3,44.89,2,0.0,0.43,23,3.6,No,0,1,Baby & Family,0.0,No
+FC10056,25-34,Suburban,Basic,1,2,47.0,0,2.0,0.06,20,3.9,Yes,0,5,Baby & Family,22.0,No
+FC10057,35-44,Urban,Plus,14,7,51.46,1,0.0,0.1,29,4.9,No,0,4,Fresh Produce,30.0,No
+FC10058,18-24,Suburban,Basic,10,1,64.93,0,0.0,0.31,11,4.0,Yes,0,1,Household Essentials,10.0,No
+FC10059,35-44,Suburban,Premium,10,6,71.5,0,2.0,0.22,21,4.1,No,0,3,Prepared Meals,10.0,No
+FC10060,35-44,Urban,Plus,17,5,75.24,0,1.0,0.42,26,4.5,No,0,1,Prepared Meals,15.0,No
+FC10061,35-44,Urban,Basic,13,9,35.99,0,0.0,0.36,24,4.5,No,0,3,Pet Supplies,0.0,No
+FC10062,55+,Urban,Premium,9,9,78.19,1,1.0,0.12,33,3.0,No,0,2,Fresh Produce,6.0,Yes
+FC10063,35-44,Suburban,Plus,9,3,38.85,0,0.0,0.18,13,5.0,No,0,3,Fresh Produce,6.0,No
+FC10064,18-24,Urban,Basic,11,2,45.69,0,1.0,0.55,8,4.3,No,0,3,Prepared Meals,9.0,No
+FC10065,25-34,Urban,Plus,11,7,47.65,0,0.0,0.19,30,5.0,Yes,0,5,Snacks,35.0,No
+FC10066,18-24,Urban,Plus,7,2,56.95,1,0.0,0.25,10,5.0,No,0,1,Snacks,3.0,Yes
+FC10067,18-24,Urban,Plus,2,3,63.02,0,0.0,0.11,8,3.9,No,0,3,Prepared Meals,40.0,No
+FC10068,45-54,Urban,Premium,22,7,66.84,1,1.0,0.27,30,3.9,No,0,1,Household Essentials,1.0,No
+FC10069,45-54,Suburban,Premium,4,12,67.05,1,0.0,0.27,45,3.4,No,0,3,Fresh Produce,3.0,No
+FC10070,18-24,Suburban,Basic,18,0,23.78,0,0.0,0.52,1,4.4,No,0,3,Snacks,5.0,No
+FC10071,18-24,Suburban,Basic,7,0,21.3,0,0.0,0.62,1,4.7,No,0,3,Prepared Meals,3.0,No
+FC10072,45-54,Small Town,Plus,22,5,62.35,0,0.0,0.12,29,4.1,No,0,4,Household Essentials,13.0,Yes
+FC10073,35-44,Small Town,Premium,17,7,64.86,0,1.0,0.24,32,4.0,No,1,6,Fresh Produce,4.0,Yes
+FC10074,45-54,Urban,Plus,27,7,41.44,0,0.0,0.34,35,3.5,No,0,3,Snacks,10.0,Yes
+FC10075,45-54,Suburban,Basic,15,8,50.42,0,1.0,0.57,24,3.9,No,0,1,Prepared Meals,10.0,No
+FC10076,18-24,Urban,Basic,18,6,32.88,0,0.0,0.41,25,3.7,No,0,4,Snacks,17.0,No
+FC10077,25-34,Urban,Basic,11,5,45.23,2,2.0,0.49,19,3.8,Yes,0,2,Baby & Family,8.0,No
+FC10078,18-24,Urban,Basic,5,6,34.96,0,1.0,0.33,27,4.1,No,1,4,Household Essentials,13.0,No
+FC10079,35-44,Suburban,Basic,21,3,33.69,0,0.0,0.13,5,5.0,No,0,1,Fresh Produce,9.0,No
+FC10080,45-54,Urban,Basic,12,4,66.37,2,1.0,0.32,14,3.5,No,0,3,Pet Supplies,0.0,No
+FC10081,18-24,Suburban,Premium,19,7,82.51,0,0.0,0.36,18,4.7,No,1,3,Fresh Produce,9.0,Yes
+FC10082,45-54,Urban,Basic,12,0,57.81,0,1.0,0.26,1,4.2,Yes,0,1,Pet Supplies,11.0,No
+FC10083,18-24,Urban,Basic,2,5,51.67,2,0.0,0.41,28,3.5,No,0,1,Fresh Produce,4.0,No
+FC10084,18-24,Urban,Plus,6,4,41.54,1,1.0,0.12,13,4.0,Yes,0,1,Prepared Meals,26.0,No
+FC10085,25-34,Suburban,Basic,23,5,27.17,0,0.0,0.27,20,4.7,No,0,5,Household Essentials,19.0,No
+FC10086,25-34,Urban,Plus,24,7,45.41,0,0.0,0.0,24,4.6,No,0,1,Household Essentials,18.0,No
+FC10087,25-34,Urban,Basic,5,3,54.78,1,1.0,0.28,6,4.3,No,0,3,Household Essentials,38.0,No
+FC10088,25-34,Small Town,Plus,18,4,49.19,1,0.0,0.27,16,4.2,Yes,0,1,Prepared Meals,19.0,No
+FC10089,45-54,Urban,Plus,10,5,50.56,2,0.0,0.22,24,3.7,No,0,1,Baby & Family,13.0,No
+FC10090,45-54,Urban,Basic,8,1,33.28,3,1.0,0.07,5,3.4,No,0,1,Household Essentials,37.0,No
+FC10091,25-34,Suburban,Basic,11,0,70.92,0,1.0,0.45,1,3.9,No,0,3,Fresh Produce,6.0,No
+FC10092,45-54,Urban,Basic,21,2,36.5,1,0.0,0.11,10,4.0,No,0,1,Fresh Produce,7.0,Yes
+FC10093,25-34,Small Town,Plus,4,6,66.74,0,1.0,0.02,24,3.7,No,0,2,Household Essentials,16.0,No
+FC10094,55+,Suburban,Basic,18,5,40.5,1,0.0,0.6,17,4.2,No,0,3,Prepared Meals,9.0,No
+FC10095,35-44,Urban,Basic,10,3,69.19,1,0.0,0.48,18,3.5,No,0,4,Prepared Meals,0.0,No
+FC10096,35-44,Suburban,Basic,1,0,49.65,1,0.0,0.07,1,3.8,No,0,1,Fresh Produce,0.0,No
+FC10097,55+,Urban,Basic,12,5,36.99,0,0.0,0.0,27,3.7,Yes,0,3,Prepared Meals,2.0,Yes
+FC10098,55+,Urban,Basic,5,4,18.0,0,0.0,0.23,15,4.2,Yes,0,3,Fresh Produce,6.0,No
+FC10099,25-34,Urban,Premium,15,7,91.33,2,0.0,0.57,33,2.8,No,0,3,Snacks,3.0,No
+FC10100,25-34,Urban,Premium,21,8,65.8,0,0.0,0.23,39,3.6,Yes,0,1,Fresh Produce,14.0,Yes
+FC10101,35-44,Small Town,Basic,29,2,32.43,0,1.0,0.28,3,3.3,Yes,0,2,Snacks,24.0,No
+FC10102,18-24,Small Town,Premium,7,5,85.28,3,0.0,0.55,15,4.2,Yes,0,3,Pet Supplies,7.0,No
+FC10103,55+,Suburban,Basic,15,4,52.27,1,0.0,0.44,16,3.2,No,0,1,Baby & Family,19.0,No
+FC10104,35-44,Urban,Basic,4,3,53.81,1,1.0,0.33,1,3.7,Yes,1,1,Fresh Produce,21.0,No
+FC10105,35-44,Small Town,Premium,15,4,49.53,0,0.0,0.31,24,4.1,No,0,2,Snacks,19.0,No
+FC10106,45-54,Suburban,Plus,6,5,38.0,0,0.0,0.3,19,4.7,Yes,0,1,Baby & Family,6.0,No
+FC10107,35-44,Urban,Premium,11,8,85.2,2,0.0,0.13,28,3.5,Yes,0,2,Fresh Produce,15.0,No
+FC10108,18-24,Small Town,Premium,17,5,76.3,1,1.0,0.04,13,4.3,No,0,1,Prepared Meals,46.0,No
+FC10109,18-24,Suburban,Basic,21,3,73.93,2,1.0,0.06,21,3.7,No,0,3,Fresh Produce,3.0,No
+FC10110,45-54,Urban,Plus,15,2,32.19,1,0.0,0.44,14,3.4,No,0,2,Prepared Meals,10.0,No
+FC10111,45-54,Urban,Premium,15,12,55.35,0,0.0,0.0,44,5.0,No,0,2,Fresh Produce,0.0,Yes
+FC10112,35-44,Suburban,Basic,10,2,62.05,0,1.0,0.26,5,4.0,No,0,2,Baby & Family,39.0,No
+FC10113,35-44,Small Town,Plus,17,6,63.67,2,2.0,0.06,32,4.0,Yes,0,4,Household Essentials,11.0,No
+FC10114,35-44,Urban,Premium,10,6,108.81,3,1.0,0.31,23,4.1,Yes,0,2,Baby & Family,4.0,No
+FC10115,25-34,Urban,Basic,13,6,35.71,1,1.0,0.3,31,3.1,No,0,3,Fresh Produce,11.0,No
+FC10116,25-34,Urban,Basic,18,1,63.76,0,0.0,0.26,3,4.7,No,0,1,Snacks,8.0,No
+FC10117,25-34,Small Town,Plus,12,5,87.29,1,2.0,0.13,21,3.3,No,0,4,Fresh Produce,0.0,No
+FC10118,35-44,Urban,Plus,13,8,57.84,2,1.0,0.14,46,4.5,No,0,3,Fresh Produce,16.0,Yes
+FC10119,35-44,Urban,Basic,14,3,60.16,0,0.0,0.6,11,5.0,Yes,1,2,Fresh Produce,1.0,No
+FC10120,35-44,Urban,Plus,18,5,45.66,4,1.0,0.54,12,3.5,No,1,1,Baby & Family,5.0,No
+FC10121,35-44,Suburban,Basic,14,3,45.37,1,1.0,0.02,19,3.7,No,0,1,Household Essentials,0.0,No
+FC10122,35-44,Urban,Plus,12,5,62.98,1,1.0,0.02,15,2.9,No,0,1,Prepared Meals,0.0,No
+FC10123,25-34,Urban,Plus,3,8,53.61,1,1.0,0.28,22,4.4,Yes,0,3,Fresh Produce,16.0,Yes
+FC10124,18-24,Urban,Plus,10,4,56.42,2,1.0,0.0,11,3.8,No,0,3,Household Essentials,0.0,No
+FC10125,35-44,Suburban,Basic,13,5,48.89,1,0.0,0.47,22,3.6,No,0,1,Household Essentials,27.0,No
+FC10126,35-44,Suburban,Basic,15,1,68.34,2,0.0,0.42,12,4.1,No,0,5,Prepared Meals,3.0,No
+FC10127,35-44,Urban,Basic,17,2,58.56,2,0.0,0.2,8,3.3,No,0,3,Prepared Meals,4.0,No
+FC10128,25-34,Urban,Plus,25,6,80.43,0,0.0,0.71,32,3.7,No,0,4,Household Essentials,2.0,Yes
+FC10129,45-54,Urban,Plus,25,7,48.78,0,0.0,0.18,36,4.1,No,0,1,Prepared Meals,14.0,Yes
+FC10130,35-44,Suburban,Basic,14,1,60.39,0,0.0,0.3,9,4.6,No,0,4,Fresh Produce,20.0,No
+FC10131,25-34,Urban,Basic,2,5,37.33,2,1.0,0.24,26,3.2,No,1,5,Fresh Produce,10.0,No
+FC10132,25-34,Urban,Basic,18,3,29.85,2,1.0,0.4,22,3.2,Yes,0,2,Fresh Produce,39.0,No
+FC10133,25-34,Urban,Basic,9,2,56.56,0,0.0,0.44,15,4.5,No,0,4,Snacks,17.0,No
+FC10134,25-34,Urban,Basic,8,5,55.31,0,0.0,0.14,24,3.2,No,0,3,Fresh Produce,12.0,No
+FC10135,35-44,Suburban,Premium,8,8,58.68,1,0.0,0.07,21,4.1,No,0,4,Snacks,8.0,Yes
+FC10136,45-54,Suburban,Plus,16,2,57.56,0,0.0,0.0,6,3.5,No,0,1,Prepared Meals,10.0,No
+FC10137,25-34,Small Town,Basic,12,7,70.37,1,2.0,0.54,29,4.5,No,0,1,Prepared Meals,0.0,No
+FC10138,35-44,Urban,Plus,4,9,95.75,0,1.0,0.43,31,4.8,Yes,0,2,Fresh Produce,0.0,Yes
+FC10139,35-44,Urban,Basic,11,5,51.86,0,1.0,0.52,16,3.8,Yes,0,1,Prepared Meals,7.0,No
+FC10140,25-34,Suburban,Premium,1,8,68.2,2,0.0,0.11,19,4.0,No,0,3,Prepared Meals,0.0,No
+FC10141,18-24,Suburban,Plus,24,3,78.52,1,0.0,0.19,17,3.9,No,0,2,Pet Supplies,21.0,No
+FC10142,45-54,Urban,Basic,5,6,54.71,0,0.0,0.12,17,4.2,Yes,0,3,Fresh Produce,11.0,No
+FC10143,25-34,Urban,Basic,25,7,36.72,0,0.0,0.4,28,4.0,No,0,3,Snacks,16.0,Yes
+FC10144,35-44,Suburban,Basic,5,2,51.91,0,0.0,0.17,7,4.4,Yes,1,4,Prepared Meals,17.0,No
+FC10145,25-34,Suburban,Basic,3,1,34.71,3,2.0,0.38,11,3.2,No,0,3,Household Essentials,10.0,No
+FC10146,25-34,Suburban,Basic,1,4,41.4,0,1.0,0.06,25,3.6,Yes,0,1,Fresh Produce,12.0,Yes
+FC10147,25-34,Small Town,Premium,8,8,67.65,0,0.0,0.3,25,3.8,Yes,0,2,Baby & Family,12.0,No
+FC10148,45-54,Suburban,Plus,13,4,72.95,1,0.0,0.23,31,4.5,Yes,0,1,Fresh Produce,16.0,No
+FC10149,18-24,Small Town,Plus,16,2,61.15,1,0.0,0.08,19,3.5,Yes,0,1,Fresh Produce,31.0,No
+FC10150,18-24,Suburban,Basic,3,5,66.02,2,0.0,0.54,27,4.7,Yes,0,3,Baby & Family,10.0,No
+FC10151,18-24,Suburban,Plus,10,4,57.39,3,0.0,0.52,15,3.6,No,0,2,Household Essentials,15.0,No
+FC10152,45-54,Urban,Basic,16,2,47.12,0,2.0,0.31,6,3.2,No,1,3,Household Essentials,0.0,No
+FC10153,55+,Urban,Plus,5,3,71.43,1,0.0,0.05,14,3.6,Yes,0,2,Pet Supplies,12.0,No
+FC10154,25-34,Suburban,Basic,13,5,32.19,0,0.0,0.06,20,3.7,Yes,0,2,Prepared Meals,4.0,No
+FC10155,25-34,Suburban,Basic,8,4,51.12,0,0.0,0.23,22,4.5,No,0,3,Snacks,0.0,Yes
+FC10156,45-54,Urban,Plus,16,4,50.27,1,0.0,0.11,2,3.9,Yes,0,3,Pet Supplies,3.0,No
+FC10157,35-44,Urban,Basic,15,3,68.82,1,0.0,0.44,7,4.4,No,0,3,Baby & Family,32.0,No
+FC10158,45-54,Urban,Plus,26,6,49.37,1,0.0,0.39,21,3.9,No,0,1,Baby & Family,11.0,No
+FC10159,18-24,Suburban,Plus,8,3,70.54,0,1.0,0.31,7,4.4,No,0,6,Household Essentials,15.0,No
+FC10160,45-54,Urban,Plus,14,5,68.44,2,1.0,0.54,23,3.6,No,1,1,Fresh Produce,35.0,No
+FC10161,25-34,Suburban,Premium,39,10,79.92,2,1.0,0.06,43,3.0,Yes,0,1,Household Essentials,9.0,No
+FC10162,35-44,Suburban,Basic,13,7,40.51,0,0.0,0.24,27,4.2,No,0,5,Fresh Produce,42.0,Yes
+FC10163,45-54,Suburban,Basic,21,5,47.88,1,0.0,0.29,29,4.3,No,0,2,Prepared Meals,20.0,No
+FC10164,25-34,Urban,Plus,12,2,44.25,0,0.0,0.05,1,3.7,Yes,0,2,Snacks,8.0,No
+FC10165,45-54,Suburban,Basic,7,6,25.51,0,1.0,0.45,23,4.2,No,0,4,Pet Supplies,13.0,No
+FC10166,18-24,Urban,Plus,3,3,79.72,1,0.0,0.05,16,4.3,No,0,2,Baby & Family,14.0,No
+FC10167,45-54,Urban,Basic,14,3,55.35,1,1.0,0.42,17,3.7,Yes,1,1,Prepared Meals,24.0,No
+FC10168,35-44,Suburban,Basic,12,5,47.74,1,0.0,0.0,16,3.4,Yes,0,3,Household Essentials,12.0,No
+FC10169,18-24,Urban,Plus,7,4,65.93,1,0.0,0.0,14,4.1,No,0,3,Fresh Produce,3.0,No
+FC10170,25-34,Urban,Basic,7,4,73.37,0,0.0,0.29,15,3.8,No,0,2,Fresh Produce,2.0,No
+FC10171,55+,Suburban,Premium,8,6,69.15,1,0.0,0.18,17,3.8,No,0,2,Pet Supplies,0.0,Yes
+FC10172,25-34,Urban,Basic,20,3,33.19,1,0.0,0.19,11,3.9,Yes,0,1,Baby & Family,4.0,No
+FC10173,18-24,Suburban,Plus,14,4,69.2,1,0.0,0.0,20,4.1,No,0,1,Baby & Family,12.0,No
+FC10174,25-34,Urban,Basic,9,2,26.64,0,1.0,0.52,5,4.6,Yes,0,1,Snacks,13.0,No
+FC10175,45-54,Suburban,Premium,14,9,72.91,0,0.0,0.48,31,4.1,No,0,2,Household Essentials,37.0,Yes
+FC10176,25-34,Urban,Basic,13,6,18.0,1,0.0,0.49,14,4.0,No,0,2,Baby & Family,1.0,No
+FC10177,18-24,Urban,Basic,9,3,57.61,0,0.0,0.41,22,3.7,No,0,3,Fresh Produce,0.0,No
+FC10178,35-44,Urban,Basic,4,7,46.5,1,0.0,0.54,22,4.0,Yes,0,3,Pet Supplies,1.0,No
+FC10179,25-34,Urban,Basic,2,5,50.25,0,1.0,0.45,14,3.4,No,0,1,Prepared Meals,10.0,No
+FC10180,45-54,Urban,Plus,15,7,48.56,2,2.0,0.48,21,3.8,No,0,1,Household Essentials,0.0,No
+FC10181,25-34,Urban,Basic,11,1,52.5,2,1.0,0.54,11,2.8,No,0,2,Baby & Family,27.0,No
+FC10182,35-44,Suburban,Premium,10,11,62.77,0,0.0,0.28,52,3.4,No,0,1,Fresh Produce,35.0,Yes
+FC10183,55+,Urban,Premium,1,8,64.09,1,2.0,0.34,33,4.0,No,0,1,Prepared Meals,2.0,No
+FC10184,35-44,Urban,Plus,25,7,57.38,1,0.0,0.24,20,4.0,No,0,1,Pet Supplies,1.0,Yes
+FC10185,25-34,Urban,Basic,7,7,51.77,2,0.0,0.22,25,3.5,Yes,0,3,Fresh Produce,11.0,No
+FC10186,35-44,Urban,Premium,7,10,73.58,2,0.0,0.39,50,4.2,Yes,0,2,Snacks,3.0,Yes
+FC10187,25-34,Suburban,Basic,18,2,38.07,0,1.0,0.31,10,4.0,No,0,3,Household Essentials,3.0,No
+FC10188,25-34,Suburban,Plus,14,5,78.65,2,2.0,0.45,26,3.8,Yes,0,2,Fresh Produce,13.0,No
+FC10189,35-44,Urban,Basic,8,4,56.09,0,1.0,0.32,27,3.6,No,0,3,Household Essentials,7.0,No
+FC10190,55+,Urban,Basic,10,5,48.82,2,1.0,0.37,16,3.7,No,0,4,Household Essentials,12.0,No
+FC10191,25-34,Suburban,Premium,26,9,80.63,1,1.0,0.19,24,4.5,No,0,1,Fresh Produce,7.0,Yes
+FC10192,25-34,Suburban,Plus,11,5,47.89,0,1.0,0.49,22,4.7,Yes,0,3,Prepared Meals,26.0,No
+FC10193,18-24,Suburban,Plus,13,1,63.5,3,2.0,0.06,5,2.9,No,0,1,Household Essentials,5.0,No
+FC10194,35-44,Urban,Premium,10,6,73.37,0,0.0,0.22,18,4.0,No,0,1,Snacks,31.0,No
+FC10195,25-34,Suburban,Basic,20,5,38.75,0,0.0,0.44,23,4.2,No,0,2,Household Essentials,11.0,Yes
+FC10196,18-24,Urban,Basic,25,1,34.79,0,0.0,0.3,5,4.2,No,0,4,Prepared Meals,0.0,No
+FC10197,18-24,Urban,Basic,11,0,60.2,2,1.0,0.7,1,4.0,No,0,2,Prepared Meals,21.0,No
+FC10198,25-34,Suburban,Premium,7,9,88.08,0,0.0,0.54,29,3.7,No,0,3,Snacks,41.0,No
+FC10199,35-44,Urban,Premium,4,9,69.73,0,0.0,0.32,30,5.0,Yes,0,1,Household Essentials,13.0,Yes
+FC10200,35-44,Urban,Basic,5,3,19.23,1,0.0,0.2,1,4.3,No,0,2,Household Essentials,0.0,No
+FC10201,35-44,Suburban,Premium,1,7,71.73,0,1.0,0.33,29,4.1,Yes,0,1,Household Essentials,9.0,Yes
+FC10202,35-44,Urban,Basic,16,2,27.0,0,0.0,0.21,6,3.4,No,0,2,Prepared Meals,5.0,No
+FC10203,35-44,Small Town,Basic,13,2,64.57,0,0.0,0.37,5,3.7,No,0,1,Fresh Produce,7.0,No
+FC10204,18-24,Small Town,Plus,8,5,60.14,0,1.0,0.4,30,4.6,No,0,5,Household Essentials,12.0,No
+FC10205,45-54,Urban,Plus,11,5,51.87,0,1.0,0.16,21,3.8,No,0,3,Baby & Family,4.0,No
+FC10206,35-44,Urban,Plus,7,6,33.84,1,1.0,0.24,32,4.2,Yes,0,3,Snacks,22.0,No
+FC10207,25-34,Small Town,Plus,3,8,52.49,0,1.0,0.15,16,4.0,Yes,0,2,Fresh Produce,18.0,No
+FC10208,25-34,Urban,Plus,18,4,18.0,1,0.0,0.5,14,4.3,No,0,3,Snacks,9.0,No
+FC10209,25-34,Urban,Basic,8,2,66.8,1,0.0,0.26,3,3.5,No,0,2,Baby & Family,19.0,No
+FC10210,45-54,Urban,Basic,22,2,27.64,0,0.0,0.07,18,3.1,Yes,0,1,Snacks,0.0,No
+FC10211,55+,Suburban,Plus,14,5,40.69,0,1.0,0.17,20,3.1,No,0,3,Household Essentials,10.0,No
+FC10212,25-34,Suburban,Premium,18,10,44.15,2,1.0,0.08,35,3.9,No,0,1,Fresh Produce,8.0,Yes
+FC10213,35-44,Small Town,Basic,3,4,35.74,2,0.0,0.25,15,4.3,Yes,0,3,Snacks,35.0,No
+FC10214,25-34,Urban,Plus,19,5,57.63,0,0.0,0.16,32,4.4,No,0,1,Baby & Family,0.0,Yes
+FC10215,45-54,Suburban,Plus,14,5,54.74,3,0.0,0.16,24,4.0,No,0,1,Fresh Produce,4.0,Yes
+FC10216,25-34,Small Town,Premium,13,6,49.35,1,1.0,0.01,21,4.1,No,0,3,Snacks,7.0,Yes
+FC10217,25-34,Suburban,Plus,16,3,85.75,0,1.0,0.28,27,4.8,No,0,4,Household Essentials,0.0,No
+FC10218,45-54,Urban,Basic,10,5,41.06,0,1.0,0.14,29,4.1,No,0,1,Household Essentials,10.0,Yes
+FC10219,18-24,Suburban,Plus,9,3,53.21,1,0.0,0.04,7,3.7,No,0,3,Household Essentials,14.0,No
+FC10220,18-24,Small Town,Plus,21,0,80.63,0,0.0,0.26,1,4.5,No,0,1,Fresh Produce,9.0,No
+FC10221,35-44,Suburban,Plus,9,5,42.76,0,0.0,0.18,18,4.4,Yes,0,2,Household Essentials,13.0,No
+FC10222,35-44,Small Town,Plus,4,5,49.92,0,0.0,0.21,20,4.8,No,0,1,Household Essentials,15.0,No
+FC10223,25-34,Suburban,Basic,19,0,53.92,0,0.0,0.38,6,3.2,Yes,0,1,Fresh Produce,49.0,No
+FC10224,18-24,Suburban,Plus,14,4,70.89,1,1.0,0.21,29,3.5,Yes,0,1,Prepared Meals,0.0,No
+FC10225,25-34,Suburban,Basic,11,5,35.79,0,1.0,0.11,20,3.6,No,0,3,Prepared Meals,2.0,No
+FC10226,18-24,Small Town,Basic,22,4,47.86,1,0.0,0.44,19,4.1,No,0,4,Household Essentials,6.0,No
+FC10227,55+,Suburban,Plus,9,5,41.05,0,0.0,0.27,15,3.9,Yes,0,2,Fresh Produce,12.0,No
+FC10228,25-34,Urban,Plus,14,3,54.09,1,0.0,0.15,25,4.4,No,0,2,Fresh Produce,18.0,No
+FC10229,25-34,Urban,Basic,19,5,70.25,0,2.0,0.22,24,3.4,No,0,2,Snacks,8.0,No
+FC10230,35-44,Urban,Basic,1,7,52.34,2,0.0,0.34,32,4.4,Yes,0,3,Fresh Produce,2.0,No
+FC10231,18-24,Small Town,Basic,3,6,38.36,3,0.0,0.0,20,3.7,No,0,2,Fresh Produce,23.0,No
+FC10232,18-24,Small Town,Plus,25,9,58.31,2,0.0,0.11,37,4.6,No,0,2,Snacks,13.0,Yes
+FC10233,45-54,Urban,Plus,1,8,71.47,1,1.0,0.0,27,4.0,No,0,2,Household Essentials,5.0,No
+FC10234,25-34,Urban,Basic,16,6,39.22,1,1.0,0.06,29,3.6,No,0,1,Household Essentials,0.0,No
+FC10235,45-54,Suburban,Premium,18,10,72.7,0,1.0,0.23,45,4.8,No,0,2,Household Essentials,22.0,Yes
+FC10236,18-24,Suburban,Basic,29,1,30.26,0,1.0,0.0,3,4.1,Yes,0,4,Fresh Produce,0.0,No
+FC10237,18-24,Suburban,Basic,9,1,40.16,0,0.0,0.42,5,4.0,Yes,0,1,Household Essentials,17.0,No
+FC10238,25-34,Suburban,Plus,7,4,47.13,2,0.0,0.5,14,3.4,Yes,0,3,Fresh Produce,4.0,No
+FC10239,45-54,Urban,Basic,29,6,37.75,1,0.0,0.1,27,4.0,No,1,4,Prepared Meals,9.0,Yes
+FC10240,35-44,Urban,Basic,26,1,70.84,2,0.0,0.61,1,3.6,No,0,1,Prepared Meals,5.0,No
+FC10241,25-34,Suburban,Plus,21,4,57.99,1,0.0,0.39,18,4.1,No,0,2,Fresh Produce,0.0,No
+FC10242,25-34,Suburban,Plus,11,2,40.65,0,0.0,0.36,7,4.2,No,1,3,Fresh Produce,3.0,No
+FC10243,45-54,Suburban,Plus,12,8,44.59,0,0.0,0.28,32,4.4,No,0,3,Household Essentials,6.0,Yes
+FC10244,55+,Urban,Basic,18,3,43.77,1,0.0,0.36,20,4.1,No,0,2,Fresh Produce,6.0,No
+FC10245,25-34,Urban,Plus,21,10,56.99,2,3.0,0.26,35,3.1,No,0,6,Fresh Produce,7.0,Yes
+FC10246,25-34,Small Town,Premium,10,9,95.69,0,0.0,0.37,38,4.1,Yes,0,1,Fresh Produce,0.0,Yes
+FC10247,45-54,Suburban,Basic,14,8,21.6,0,0.0,0.22,31,3.9,No,0,1,Pet Supplies,8.0,Yes
+FC10248,35-44,Urban,Plus,11,5,75.68,0,0.0,0.45,14,4.6,No,0,2,Snacks,10.0,No
+FC10249,25-34,Suburban,Plus,9,7,71.57,0,0.0,0.14,20,4.1,No,0,2,Snacks,0.0,Yes
+FC10250,25-34,Suburban,Basic,13,8,59.21,1,0.0,0.2,21,4.2,No,0,2,Household Essentials,27.0,Yes
+FC10251,18-24,Urban,Basic,25,4,28.8,2,0.0,0.15,21,3.9,No,1,2,Household Essentials,21.0,No
+FC10252,25-34,Suburban,Premium,7,9,48.41,2,1.0,0.0,32,3.8,Yes,0,2,Fresh Produce,7.0,Yes
+FC10253,35-44,Suburban,Premium,4,6,73.33,0,0.0,0.1,22,3.7,Yes,0,1,Household Essentials,2.0,No
+FC10254,55+,Suburban,Premium,5,8,60.35,0,0.0,0.16,34,3.8,No,0,2,Prepared Meals,0.0,Yes
+FC10255,18-24,Urban,Basic,25,7,89.11,1,0.0,0.47,29,3.0,No,0,2,Household Essentials,4.0,Yes
+FC10256,25-34,Small Town,Basic,12,3,56.51,0,0.0,0.33,16,4.0,No,0,4,Snacks,32.0,No
+FC10257,45-54,Suburban,Basic,26,4,25.98,2,0.0,0.5,20,3.6,No,0,2,Snacks,31.0,No
+FC10258,25-34,Suburban,Basic,18,0,18.0,2,0.0,0.25,3,3.1,Yes,0,1,Snacks,15.0,No
+FC10259,25-34,Urban,Plus,14,4,62.14,2,0.0,0.12,25,3.8,Yes,0,3,Household Essentials,4.0,No
+FC10260,25-34,Urban,Plus,12,6,47.33,0,1.0,0.3,16,3.1,Yes,0,2,Snacks,38.0,No
+FC10261,55+,Small Town,Premium,14,7,71.31,0,0.0,0.23,29,4.7,Yes,0,2,Household Essentials,7.0,Yes
+FC10262,35-44,Suburban,Basic,9,4,54.47,1,0.0,0.57,20,4.5,Yes,0,3,Baby & Family,39.0,No
+FC10263,25-34,Small Town,Plus,9,1,35.53,0,1.0,0.28,15,4.0,No,1,3,Prepared Meals,33.0,No
+FC10264,35-44,Urban,Premium,14,4,73.77,0,0.0,0.48,10,4.8,Yes,0,4,Household Essentials,45.0,No
+FC10265,35-44,Small Town,Plus,4,6,44.6,1,0.0,0.1,30,4.5,No,0,1,Fresh Produce,1.0,Yes
+FC10266,55+,Suburban,Plus,1,4,53.28,2,1.0,0.2,14,3.9,Yes,0,1,Pet Supplies,27.0,No
+FC10267,45-54,Suburban,Plus,16,6,59.5,0,1.0,0.2,17,3.7,No,0,2,Fresh Produce,8.0,No
+FC10268,35-44,Urban,Basic,9,3,44.57,1,1.0,0.72,11,4.2,No,0,2,Fresh Produce,13.0,No
+FC10269,35-44,Suburban,Premium,20,6,77.59,0,1.0,0.0,13,4.7,No,0,2,Snacks,11.0,No
+FC10270,45-54,Urban,Plus,14,6,56.54,0,1.0,0.33,23,3.2,No,0,2,Prepared Meals,12.0,No
+FC10271,55+,Urban,Plus,21,7,66.07,2,1.0,0.08,23,4.0,Yes,0,3,Baby & Family,10.0,No
+FC10272,35-44,Urban,Plus,11,9,70.58,0,0.0,0.14,24,4.8,Yes,0,2,Fresh Produce,7.0,No
+FC10273,45-54,Urban,Basic,14,3,33.76,2,1.0,0.28,20,4.6,No,1,2,Fresh Produce,0.0,No
+FC10274,25-34,Urban,Plus,14,4,61.95,1,0.0,0.33,14,3.4,Yes,0,2,Prepared Meals,23.0,No
+FC10275,45-54,Urban,Premium,21,8,84.41,2,0.0,0.04,21,3.4,Yes,0,3,Pet Supplies,13.0,No
+FC10276,18-24,Urban,Plus,17,5,65.29,0,0.0,0.0,19,4.0,Yes,0,2,Pet Supplies,0.0,No
+FC10277,55+,Small Town,Basic,8,2,18.0,0,0.0,0.4,4,4.0,No,0,2,Household Essentials,14.0,No
+FC10278,45-54,Suburban,Basic,1,1,32.03,1,1.0,0.36,4,3.5,Yes,0,3,Household Essentials,10.0,No
+FC10279,25-34,Urban,Plus,28,5,67.44,3,2.0,0.12,19,3.5,Yes,0,3,Baby & Family,15.0,No
+FC10280,18-24,Urban,Plus,8,4,38.67,2,1.0,0.02,29,3.8,Yes,0,3,Prepared Meals,1.0,No
+FC10281,35-44,Urban,Basic,15,2,58.78,0,0.0,0.4,15,3.9,No,0,4,Fresh Produce,6.0,Yes
+FC10282,35-44,Suburban,Premium,15,8,86.02,0,0.0,0.16,35,4.2,No,0,1,Fresh Produce,29.0,No
+FC10283,35-44,Urban,Premium,9,6,89.33,1,1.0,0.28,21,3.6,No,0,5,Prepared Meals,10.0,No
+FC10284,18-24,Urban,Basic,20,6,45.14,0,0.0,0.23,28,4.6,Yes,0,2,Household Essentials,11.0,Yes
+FC10285,18-24,Urban,Plus,16,6,48.01,1,0.0,0.08,28,3.4,No,0,4,Snacks,3.0,No
+FC10286,25-34,Urban,Plus,5,8,48.31,0,0.0,0.17,24,4.2,No,0,1,Prepared Meals,0.0,Yes
+FC10287,45-54,Small Town,Basic,22,3,32.41,1,1.0,0.59,12,3.8,Yes,0,1,Prepared Meals,0.0,No
+FC10288,25-34,Suburban,Plus,2,7,54.43,0,1.0,0.0,21,3.4,No,0,2,Fresh Produce,19.0,No
+FC10289,25-34,Suburban,Basic,1,2,60.88,3,1.0,0.36,15,2.8,No,0,2,Fresh Produce,14.0,No
+FC10290,18-24,Urban,Basic,1,2,39.9,0,0.0,0.25,6,3.3,Yes,0,3,Pet Supplies,5.0,No
+FC10291,18-24,Small Town,Basic,18,4,29.25,1,2.0,0.41,20,3.4,No,0,2,Snacks,2.0,No
+FC10292,35-44,Suburban,Basic,18,4,57.59,2,0.0,0.67,34,3.7,Yes,0,4,Household Essentials,9.0,No
+FC10293,18-24,Suburban,Basic,1,4,29.65,0,1.0,0.51,11,3.9,No,0,4,Household Essentials,11.0,No
+FC10294,35-44,Urban,Premium,9,5,63.62,2,1.0,0.18,17,3.6,No,0,2,Fresh Produce,0.0,Yes
+FC10295,25-34,Suburban,Premium,24,9,78.12,0,1.0,0.27,35,3.6,No,0,3,Prepared Meals,21.0,Yes
+FC10296,55+,Suburban,Plus,10,4,54.78,0,0.0,0.74,23,4.4,Yes,0,3,Baby & Family,12.0,Yes
+FC10297,25-34,Suburban,Basic,17,4,35.32,0,0.0,0.43,17,4.9,No,0,1,Prepared Meals,11.0,Yes
+FC10298,25-34,Small Town,Plus,16,5,74.19,0,0.0,0.2,15,3.7,Yes,0,3,Prepared Meals,15.0,No
+FC10299,35-44,Urban,Plus,9,6,58.7,1,1.0,0.13,17,2.9,No,1,3,Household Essentials,16.0,No
+FC10300,25-34,Urban,Basic,11,3,29.85,1,0.0,0.3,6,4.2,No,0,3,Household Essentials,17.0,Yes
+FC10301,18-24,Urban,Basic,15,5,44.23,1,2.0,0.55,14,3.1,No,0,1,Fresh Produce,10.0,No
+FC10302,35-44,Small Town,Premium,10,7,62.48,0,1.0,0.0,17,4.0,No,0,2,Fresh Produce,36.0,Yes
+FC10303,25-34,Small Town,Basic,15,2,83.42,2,1.0,0.49,9,3.6,No,0,3,Fresh Produce,9.0,No
+FC10304,25-34,Urban,Premium,16,10,92.41,2,0.0,0.19,46,4.3,No,0,3,Prepared Meals,4.0,Yes
+FC10305,45-54,Urban,Basic,28,2,22.42,1,1.0,0.25,8,3.5,No,0,2,Household Essentials,11.0,No
+FC10306,35-44,Urban,Basic,13,3,49.93,0,0.0,0.2,10,4.7,No,0,3,Snacks,12.0,No
+FC10307,18-24,Urban,Basic,1,3,18.0,2,1.0,0.33,15,3.6,Yes,0,1,Prepared Meals,30.0,No
+FC10308,18-24,Suburban,Plus,1,9,61.17,0,0.0,0.2,32,3.5,No,0,4,Baby & Family,52.0,Yes
+FC10309,25-34,Suburban,Basic,16,1,60.12,0,0.0,0.18,15,4.1,Yes,0,1,Snacks,17.0,No
+FC10310,18-24,Urban,Basic,10,4,64.12,2,2.0,0.2,13,4.1,Yes,1,5,Snacks,8.0,No
+FC10311,35-44,Suburban,Basic,17,4,40.7,1,0.0,0.43,14,3.5,No,0,2,Baby & Family,5.0,No
+FC10312,55+,Small Town,Plus,21,9,21.26,0,0.0,0.13,30,4.4,Yes,0,4,Household Essentials,13.0,Yes
+FC10313,25-34,Urban,Basic,1,1,35.81,1,1.0,0.39,8,4.0,No,0,3,Prepared Meals,0.0,No
+FC10314,25-34,Urban,Basic,9,4,59.45,1,2.0,0.53,21,4.3,Yes,0,2,Prepared Meals,4.0,No
+FC10315,25-34,Urban,Basic,24,5,41.52,1,0.0,0.36,21,3.7,Yes,0,4,Pet Supplies,16.0,No
+FC10316,25-34,Urban,Premium,8,9,91.72,1,0.0,0.0,39,4.0,Yes,0,5,Baby & Family,0.0,Yes
+FC10317,18-24,Small Town,Plus,5,5,34.05,2,0.0,0.14,18,3.8,No,0,1,Fresh Produce,4.0,Yes
+FC10318,35-44,Urban,Basic,18,2,33.94,2,0.0,0.5,18,4.2,No,1,2,Household Essentials,7.0,No
+FC10319,35-44,Urban,Plus,10,3,47.29,0,0.0,0.0,7,5.0,No,0,2,Fresh Produce,24.0,No
+FC10320,35-44,Urban,Plus,20,7,100.31,1,1.0,0.0,29,2.9,Yes,0,2,Prepared Meals,2.0,No
+FC10321,25-34,Urban,Basic,4,4,61.05,2,0.0,0.12,15,4.4,No,1,1,Pet Supplies,23.0,No
+FC10322,45-54,Urban,Premium,20,9,82.16,0,0.0,0.37,28,3.9,No,0,2,Prepared Meals,6.0,Yes
+FC10323,25-34,Urban,Premium,16,13,63.87,0,0.0,0.44,42,4.7,No,0,1,Prepared Meals,17.0,Yes
+FC10324,25-34,Small Town,Plus,24,7,61.37,0,0.0,0.47,23,3.9,No,1,2,Fresh Produce,0.0,Yes
+FC10325,25-34,Urban,Basic,18,6,56.64,1,0.0,0.46,20,4.0,Yes,0,2,Household Essentials,13.0,Yes
+FC10326,45-54,Small Town,Basic,21,2,25.57,0,2.0,0.55,10,4.3,No,0,1,Snacks,12.0,No
+FC10327,35-44,Urban,Basic,18,2,47.5,1,0.0,0.14,13,5.0,Yes,0,2,Prepared Meals,6.0,No
+FC10328,25-34,Suburban,Premium,10,9,65.76,2,2.0,0.1,38,3.5,No,0,3,Snacks,5.0,No
+FC10329,45-54,Urban,Plus,22,5,63.98,0,0.0,0.18,22,4.7,No,0,2,Pet Supplies,8.0,No
+FC10330,25-34,Suburban,Plus,10,5,48.32,1,1.0,0.17,20,4.3,Yes,0,1,Fresh Produce,24.0,No
+FC10331,35-44,Suburban,Basic,10,2,57.97,2,0.0,0.29,12,3.3,No,0,2,Household Essentials,2.0,No
+FC10332,45-54,Urban,Plus,16,7,58.36,0,0.0,0.0,29,4.1,No,0,1,Fresh Produce,0.0,Yes
+FC10333,18-24,Urban,Plus,14,3,64.02,2,0.0,0.54,16,3.5,No,0,3,Prepared Meals,10.0,No
+FC10334,25-34,Small Town,Basic,17,4,61.55,1,0.0,0.06,14,4.9,No,0,2,Prepared Meals,0.0,Yes
+FC10335,18-24,Urban,Basic,12,2,18.0,2,0.0,0.25,13,4.2,No,0,3,Household Essentials,5.0,No
+FC10336,25-34,Suburban,Basic,7,6,45.17,0,0.0,0.58,26,3.8,No,0,3,Fresh Produce,24.0,No
+FC10337,25-34,Small Town,Basic,11,4,64.62,0,1.0,0.27,21,4.5,No,0,4,Fresh Produce,6.0,Yes
+FC10338,25-34,Small Town,Plus,13,6,55.79,1,1.0,0.17,18,3.5,No,0,3,Prepared Meals,14.0,No
+FC10339,18-24,Small Town,Basic,17,3,44.93,0,0.0,0.3,13,4.4,Yes,0,2,Pet Supplies,0.0,No
+FC10340,25-34,Urban,Plus,17,3,60.67,2,4.0,0.14,14,2.8,Yes,0,3,Household Essentials,54.0,No
+FC10341,18-24,Small Town,Basic,1,0,64.89,2,0.0,0.18,3,3.3,Yes,0,1,Prepared Meals,0.0,No
+FC10342,25-34,Suburban,Basic,15,3,61.76,0,0.0,0.37,15,4.8,No,0,1,Fresh Produce,16.0,Yes
+FC10343,18-24,Suburban,Plus,15,3,47.25,0,0.0,0.38,19,3.8,No,0,2,Baby & Family,2.0,No
+FC10344,18-24,Suburban,Premium,18,6,97.66,0,0.0,0.18,17,4.7,No,0,2,Prepared Meals,0.0,Yes
+FC10345,25-34,Urban,Premium,8,7,87.93,1,1.0,0.23,30,3.6,No,1,3,Prepared Meals,14.0,No
+FC10346,35-44,Urban,Plus,18,2,37.7,2,1.0,0.2,12,3.5,No,0,1,Fresh Produce,0.0,No
+FC10347,55+,Urban,Basic,1,2,62.41,2,0.0,0.5,11,3.4,No,0,3,Household Essentials,16.0,No
+FC10348,25-34,Urban,Premium,2,7,80.61,1,0.0,0.26,25,3.9,No,0,1,Snacks,8.0,Yes
+FC10349,45-54,Urban,Plus,16,7,44.57,0,0.0,0.11,36,4.3,No,0,2,Pet Supplies,7.0,Yes
+FC10350,35-44,Suburban,Basic,5,1,33.93,0,0.0,0.38,10,4.0,No,0,1,Fresh Produce,21.0,No
+FC10351,45-54,Suburban,Basic,7,2,50.9,1,0.0,0.66,3,4.1,No,0,2,Fresh Produce,12.0,No
+FC10352,18-24,Suburban,Premium,18,7,74.29,1,0.0,0.0,20,4.4,No,0,2,Pet Supplies,5.0,Yes
+FC10353,18-24,Suburban,Premium,1,6,109.22,0,0.0,0.59,24,4.4,No,0,4,Prepared Meals,7.0,Yes
+FC10354,18-24,Small Town,Basic,8,3,64.34,0,0.0,0.47,12,3.6,No,0,4,Prepared Meals,0.0,No
+FC10355,18-24,Small Town,Plus,20,2,79.84,0,0.0,0.09,6,4.1,No,0,4,Fresh Produce,18.0,No
+FC10356,25-34,Small Town,Basic,2,6,58.99,0,1.0,0.63,15,3.5,No,0,2,Baby & Family,9.0,No
+FC10357,25-34,Urban,Plus,10,2,69.75,0,0.0,0.02,6,4.7,No,0,1,Fresh Produce,18.0,No
+FC10358,18-24,Urban,Plus,17,5,63.1,1,1.0,0.55,18,4.0,No,0,2,Prepared Meals,1.0,No
+FC10359,35-44,Suburban,Plus,16,7,70.58,2,2.0,0.09,29,4.7,No,0,1,Baby & Family,13.0,Yes
+FC10360,25-34,Urban,Basic,13,6,51.14,1,0.0,0.28,17,4.5,No,0,4,Fresh Produce,16.0,No

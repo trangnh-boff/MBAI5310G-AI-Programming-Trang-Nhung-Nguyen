@@ -1,0 +1,31 @@
+Feature,Importance
+numerical__Monthly_Orders,0.429340096
+numerical__Delivery_Rating,0.126185683
+numerical__App_Sessions_Per_Month,0.125400341
+numerical__Late_Deliveries_Last_3M,0.09528112
+numerical__Discount_Usage_Rate,0.058813924
+numerical__Months_As_Customer,0.053412026
+numerical__Avg_Order_Value,0.049702434
+categorical__Membership_Type_Premium,0.033110901
+categorical__Age_Group_35-44,0.028753474
+categorical__Age_Group_18-24,0
+categorical__Preferred_Category_Pet Supplies,0
+numerical__Household_Size,0
+numerical__Payment_Issues_Last_3M,0
+numerical__Support_Tickets_Last_3M,0
+categorical__Preferred_Category_Snacks,0
+categorical__Preferred_Category_Prepared Meals,0
+categorical__Preferred_Category_Household Essentials,0
+categorical__Age_Group_25-34,0
+categorical__Preferred_Category_Fresh Produce,0
+categorical__Preferred_Category_Baby & Family,0
+categorical__Competitor_Offer_Seen_Yes,0
+categorical__Competitor_Offer_Seen_No,0
+categorical__Membership_Type_Plus,0
+categorical__Membership_Type_Basic,0
+categorical__City_Type_Urban,0
+categorical__City_Type_Suburban,0
+categorical__City_Type_Small Town,0
+categorical__Age_Group_55+,0
+categorical__Age_Group_45-54,0
+numerical__Last_Login_Days,0
