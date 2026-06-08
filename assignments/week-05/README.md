@@ -24,7 +24,4 @@ The K-means model identified three purchase order segments:
 ## Business Recommendation
 ProcurePro should use the clusters to prioritize supplier follow-up, customer communication, and inventory planning. For lower reliability orders, the company should contact suppliers earlier and prepare backup suppliers. For low inventory buffer orders, ProcurePro should send earlier customer updates and encourage earlier reordering. For reliable but long-distance orders, the company should maintain strong supplier relationships while still monitoring shipping timelines.
 
-## Repository Files
-- `Assignment 5.ipynb` — completed Jupyter Notebook
-- `procurepro_supplier_delay_risk_dataset.xlsx` — dataset used for the assignment
-- `README.md` — project summary
+
