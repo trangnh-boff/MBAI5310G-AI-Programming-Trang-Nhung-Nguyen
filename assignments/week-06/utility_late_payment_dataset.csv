@@ -1,0 +1,371 @@
+account_id,customer_age,age_group,gender,region,household_type,plan_type,payment_method,monthly_bill_amount,average_usage_kwh,months_as_customer,previous_late_payments,autopay_enabled,support_calls_last_6m,paperless_billing,income_estimate,late_payment_next_month
+U0001,33,26-35,Female,East,Shared,Fixed,Bank Transfer,305.04,989,84,4,No,0,Yes,100162,1
+U0002,57,51+,Female,West,Family,Variable,Bank Transfer,118.85,1850,1,4,No,2,No,32940,1
+U0003,61,51+,Female,West,Couple,Green Energy,Credit Card,253.08,775,49,3,Yes,3,No,84136,0
+U0004,61,51+,Female,South,Couple,Green Energy,Debit,139.03,1839,64,0,Yes,3,No,109059,0
+U0005,72,51+,Male,North,Shared,Fixed,Bank Transfer,189.71,336,86,0,No,0,Yes,58827,1
+U0006,53,51+,Female,South,Shared,Green Energy,Credit Card,294.71,1602,17,0,No,3,Yes,132354,1
+U0007,34,26-35,Male,West,Single,Green Energy,Debit,158.9,1002,5,0,No,0,Yes,36102,1
+U0008,35,26-35,Male,East,Single,Green Energy,Debit,67.98,623,74,3,Yes,1,Yes,47993,0
+U0009,27,26-35,Male,North,Shared,Variable,Debit,171.38,565,15,4,No,7,Yes,112121,1
+U0010,45,36-50,Female,South,Shared,Fixed,Bank Transfer,263.04,1364,120,2,No,5,No,97343,1
+U0011,71,51+,Male,West,Shared,Variable,Debit,150.42,1163,129,2,Yes,7,No,133326,1
+U0012,53,51+,Male,East,Single,Green Energy,Bank Transfer,359.67,1116,30,1,No,6,Yes,138359,1
+U0013,36,36-50,Female,West,Shared,Green Energy,Credit Card,97.98,362,107,2,No,3,No,129942,0
+U0014,26,26-35,Male,North,Family,Fixed,Cash,231.6,1077,41,0,No,1,Yes,69743,1
+U0015,61,51+,Female,North,Family,Variable,Credit Card,199.76,716,100,0,No,8,Yes,100540,1
+U0016,74,51+,Female,West,Single,Green Energy,Debit,62.25,633,94,0,Yes,3,Yes,136771,0
+U0017,69,51+,Female,East,Family,Green Energy,Cash,181.62,470,38,0,No,3,No,35282,1
+U0018,70,51+,Female,South,Couple,Green Energy,Credit Card,346.07,934,79,0,No,1,No,41694,0
+U0019,48,36-50,Male,South,Single,Fixed,Credit Card,130.75,799,91,1,No,0,No,64977,1
+U0020,23,18-25,Female,East,Couple,Green Energy,Bank Transfer,96.72,546,71,2,Yes,6,No,73657,0
+U0021,62,51+,Female,East,Family,Fixed,Debit,95.93,1537,5,1,No,7,No,41379,1
+U0022,57,51+,Male,South,Couple,Green Energy,Debit,140.18,1342,132,0,Yes,4,No,143528,0
+U0023,65,51+,Female,South,Couple,Variable,Debit,54.17,1035,10,1,Yes,6,No,122123,0
+U0024,60,51+,Female,East,Shared,Fixed,Cash,137.77,379,116,4,No,7,Yes,88674,1
+U0025,62,51+,Male,North,Family,Fixed,Debit,175.59,1666,90,1,Yes,3,Yes,55456,0
+U0026,68,51+,Female,West,Single,Variable,Cash,98.82,738,48,0,Yes,1,Yes,90469,0
+U0027,55,51+,Male,West,Single,Fixed,Debit,130.29,1524,65,0,No,0,Yes,109656,0
+U0028,51,51+,Female,North,Single,Variable,Credit Card,236.95,1269,43,1,No,7,Yes,62331,1
+U0029,39,36-50,Female,South,Single,Variable,Credit Card,263.49,1512,82,1,No,7,No,61131,1
+U0030,32,26-35,Male,South,Single,Variable,Cash,290.48,828,40,1,Yes,8,No,108191,0
+U0031,19,18-25,Female,East,Single,Variable,Credit Card,153.68,1403,120,0,Yes,7,Yes,113524,0
+U0032,54,51+,Male,East,Family,Green Energy,Credit Card,141.91,949,71,1,No,5,No,133026,1
+U0033,53,51+,Male,West,Couple,Green Energy,Bank Transfer,129.18,913,77,2,Yes,4,No,121326,0
+U0034,50,36-50,Male,West,Couple,Green Energy,Bank Transfer,95.02,1238,38,0,Yes,6,Yes,70047,0
+U0035,25,18-25,Male,East,Family,Green Energy,Debit,299.07,1258,117,0,Yes,7,No,87264,1
+U0036,25,18-25,Female,North,Couple,Green Energy,Debit,307.97,1277,23,0,Yes,3,Yes,131032,0
+U0037,75,51+,Female,South,Single,Fixed,Cash,143.12,941,76,0,Yes,5,No,72404,0
+U0038,35,26-35,Male,West,Single,Variable,Debit,56.82,1283,58,1,Yes,7,No,49409,0
+U0039,69,51+,Male,South,Family,Fixed,Bank Transfer,263.24,669,78,1,Yes,6,Yes,114128,0
+U0040,46,36-50,Male,West,Single,Fixed,Debit,308.7,238,91,3,Yes,6,Yes,57798,1
+U0041,18,18-25,Female,South,Family,Fixed,Cash,208.33,1683,73,0,Yes,8,Yes,101915,1
+U0042,43,36-50,Male,East,Shared,Variable,Credit Card,231.07,433,110,0,No,5,Yes,73885,1
+U0043,28,26-35,Female,South,Shared,Fixed,Cash,79.3,1158,114,0,Yes,7,Yes,59220,1
+U0044,24,18-25,Female,West,Couple,Fixed,Credit Card,350.87,527,53,0,No,3,Yes,57650,1
+U0045,25,18-25,Female,North,Shared,Variable,Cash,256.67,869,121,1,Yes,2,Yes,75448,0
+U0046,51,51+,Male,South,Family,Variable,Cash,314.04,798,127,1,No,3,Yes,53120,1
+U0047,63,51+,Male,South,Single,Variable,Credit Card,188.41,462,53,5,Yes,1,Yes,44419,1
+U0048,21,18-25,Female,East,Shared,Variable,Debit,281.68,872,131,0,Yes,2,No,99013,0
+U0049,73,51+,Male,East,Single,Green Energy,Bank Transfer,159.12,1613,52,4,Yes,5,Yes,66034,1
+U0050,51,51+,Female,East,Shared,Green Energy,Debit,51.0,568,24,0,Yes,6,Yes,132287,0
+U0051,34,26-35,Male,East,Shared,Variable,Cash,318.58,1010,11,5,No,1,Yes,47957,1
+U0052,58,51+,Male,West,Couple,Fixed,Credit Card,314.29,1289,86,0,Yes,2,No,131326,0
+U0053,25,18-25,Male,West,Single,Fixed,Credit Card,183.81,543,25,0,Yes,4,No,31789,1
+U0054,41,36-50,Female,South,Family,Fixed,Cash,87.16,1725,53,5,No,4,No,109619,1
+U0055,60,51+,Male,West,Family,Fixed,Bank Transfer,301.49,639,31,0,Yes,6,Yes,94268,0
+U0056,40,36-50,Male,South,Shared,Green Energy,Cash,324.98,1649,28,1,No,0,No,123496,1
+U0057,27,26-35,Male,South,Couple,Fixed,Credit Card,113.04,398,69,6,No,1,Yes,131601,1
+U0058,32,26-35,Female,East,Couple,Green Energy,Bank Transfer,286.25,249,124,0,Yes,7,No,119522,0
+U0059,37,36-50,Female,West,Couple,Fixed,Credit Card,275.75,1065,99,2,No,6,Yes,100938,1
+U0060,48,36-50,Male,West,Shared,Variable,Credit Card,134.73,463,116,2,Yes,1,Yes,96622,0
+U0061,64,51+,Male,West,Couple,Fixed,Credit Card,93.82,349,45,1,No,8,No,86183,0
+U0062,53,51+,Male,East,Shared,Green Energy,Credit Card,206.81,1033,36,0,No,3,No,45931,0
+U0063,44,36-50,Female,South,Family,Fixed,Credit Card,272.77,1566,125,0,No,2,Yes,140712,0
+U0064,34,26-35,Female,South,Family,Fixed,Cash,215.14,455,86,1,No,5,No,46782,1
+U0065,52,51+,Male,West,Shared,Variable,Debit,267.97,1796,40,0,Yes,1,Yes,58433,0
+U0066,55,51+,Male,West,Couple,Green Energy,Debit,253.99,1368,126,0,Yes,2,Yes,115479,0
+U0067,67,51+,Male,North,Shared,Green Energy,Bank Transfer,298.57,220,84,1,Yes,3,Yes,136006,0
+U0068,19,18-25,Female,East,Single,Variable,Credit Card,329.28,574,31,0,Yes,6,No,110083,1
+U0069,62,51+,Female,North,Family,Fixed,Credit Card,88.92,1224,49,0,Yes,7,No,116248,0
+U0070,65,51+,Female,South,Family,Green Energy,Credit Card,255.18,620,71,0,Yes,1,Yes,138984,0
+U0071,49,36-50,Male,South,Single,Green Energy,Bank Transfer,124.04,1783,57,1,Yes,1,Yes,58817,0
+U0072,31,26-35,Male,South,Shared,Variable,Debit,122.35,844,56,0,Yes,2,No,82896,0
+U0073,36,36-50,Male,West,Single,Green Energy,Bank Transfer,131.66,600,77,4,No,7,No,119422,1
+U0074,28,26-35,Male,North,Family,Fixed,Debit,260.97,1512,52,6,Yes,3,Yes,139974,1
+U0075,54,51+,Male,North,Couple,Green Energy,Debit,230.71,1061,78,0,Yes,4,Yes,119062,0
+U0076,27,26-35,Female,East,Shared,Variable,Credit Card,297.28,218,6,1,Yes,1,No,54582,1
+U0077,38,36-50,Female,North,Shared,Fixed,Credit Card,351.74,823,102,2,Yes,4,Yes,73796,1
+U0078,39,36-50,Male,South,Single,Variable,Credit Card,313.75,1686,33,0,No,4,Yes,58271,1
+U0079,71,51+,Male,East,Single,Fixed,Cash,244.89,772,84,5,No,6,Yes,50512,1
+U0080,59,51+,Male,South,Shared,Variable,Cash,333.13,448,118,0,No,6,No,122740,1
+U0081,65,51+,Female,South,Family,Variable,Cash,129.53,1840,35,1,No,6,No,32824,1
+U0082,19,18-25,Female,West,Family,Variable,Cash,163.98,1654,3,1,Yes,5,Yes,119709,0
+U0083,70,51+,Male,South,Family,Green Energy,Bank Transfer,84.85,478,10,0,No,6,Yes,52803,1
+U0084,59,51+,Female,South,Family,Green Energy,Cash,64.08,732,1,3,Yes,4,Yes,117135,0
+U0085,34,26-35,Male,East,Single,Fixed,Debit,69.58,1268,109,3,Yes,7,Yes,84225,1
+U0086,42,36-50,Male,West,Family,Variable,Bank Transfer,177.51,1825,3,3,Yes,7,No,95310,1
+U0087,23,18-25,Male,West,Family,Green Energy,Credit Card,131.44,1220,69,1,No,4,No,34927,1
+U0088,74,51+,Male,East,Single,Variable,Credit Card,282.69,1505,105,1,Yes,3,Yes,46574,1
+U0089,18,18-25,Female,West,Couple,Variable,Cash,284.16,279,11,0,Yes,4,Yes,51664,0
+U0090,62,51+,Male,West,Couple,Variable,Debit,238.79,937,72,6,No,0,No,37445,1
+U0091,68,51+,Female,North,Shared,Green Energy,Credit Card,317.81,851,61,0,Yes,2,No,129903,0
+U0092,36,36-50,Female,West,Family,Fixed,Credit Card,310.88,1641,122,1,No,5,No,75863,1
+U0093,49,36-50,Female,South,Single,Fixed,Cash,105.59,1778,55,1,No,0,Yes,,1
+U0094,47,36-50,Female,North,Family,Variable,Debit,199.29,454,27,5,No,3,No,142308,1
+U0095,68,51+,Female,North,Single,Variable,Credit Card,310.07,1135,105,0,No,3,Yes,97014,1
+U0096,73,51+,Female,West,Shared,Green Energy,Cash,284.41,1207,103,2,Yes,8,Yes,104411,1
+U0097,67,51+,Female,North,Single,Fixed,Credit Card,244.73,1433,83,0,Yes,6,Yes,32436,1
+U0098,35,26-35,Male,North,Family,Green Energy,Cash,283.49,508,43,0,No,2,Yes,119904,1
+U0099,56,51+,Male,North,Couple,Variable,Cash,318.66,1068,79,0,Yes,4,Yes,88203,0
+U0100,64,51+,Male,East,Couple,Fixed,Cash,53.36,1689,82,4,Yes,3,No,111943,1
+U0101,24,18-25,Male,South,Family,Fixed,Bank Transfer,334.8,758,72,0,Yes,2,No,131607,0
+U0102,29,26-35,Male,West,Shared,Variable,Credit Card,144.49,1325,13,0,Yes,2,No,97955,0
+U0103,66,51+,Male,East,Single,Fixed,Cash,288.75,862,59,0,Yes,1,No,74311,0
+U0104,32,26-35,Female,North,Couple,Fixed,Cash,126.49,1123,132,0,Yes,6,Yes,35842,1
+U0105,39,36-50,Female,North,Family,Fixed,Cash,239.06,1824,11,0,Yes,8,No,43889,1
+U0106,19,18-25,Male,North,Couple,Variable,Credit Card,287.03,863,17,0,No,6,Yes,103978,1
+U0107,63,51+,Male,East,Couple,Variable,Debit,222.23,937,85,0,Yes,1,No,29913,1
+U0108,75,51+,Male,East,Shared,Fixed,Debit,309.33,1748,48,0,Yes,2,No,78338,0
+U0109,46,36-50,Male,East,Couple,Green Energy,Cash,279.47,1756,83,2,No,3,Yes,100826,1
+U0110,40,36-50,Male,North,Single,Fixed,Bank Transfer,75.65,654,96,1,No,6,Yes,123782,1
+U0111,69,51+,Male,North,Couple,Variable,Credit Card,281.99,885,27,2,Yes,1,Yes,41553,1
+U0112,70,51+,Female,North,Couple,Variable,Cash,359.57,1013,63,2,No,2,No,141837,1
+U0113,20,18-25,Female,West,Single,Green Energy,Debit,129.2,843,109,0,No,0,No,135131,0
+U0114,73,51+,Female,West,Shared,Fixed,Credit Card,55.06,1590,103,1,Yes,8,No,69949,0
+U0115,60,51+,Male,South,Couple,Variable,Debit,91.98,706,92,1,No,7,No,108428,0
+U0116,39,36-50,Female,East,Single,Fixed,Cash,102.65,1494,96,5,Yes,7,No,64209,1
+U0117,20,18-25,Female,North,Shared,Fixed,Credit Card,212.5,575,116,2,Yes,6,No,87052,1
+U0118,18,18-25,Female,West,Family,Variable,Debit,327.28,954,116,1,Yes,0,No,40812,0
+U0119,36,36-50,Female,South,Family,Fixed,Bank Transfer,45.16,412,137,1,Yes,7,No,65698,0
+U0120,36,36-50,Male,South,Family,Fixed,Credit Card,344.64,1622,55,2,No,4,No,38492,1
+U0121,18,18-25,Female,North,Couple,Variable,Credit Card,301.87,726,83,0,No,1,No,53317,1
+U0122,74,51+,Male,West,Single,Green Energy,Cash,148.65,371,124,3,Yes,0,Yes,79183,1
+U0123,52,51+,Female,West,Family,Green Energy,Debit,337.65,1362,55,1,No,1,No,100981,1
+U0124,64,51+,Female,West,Shared,Variable,Debit,124.32,306,22,4,No,0,Yes,74601,1
+U0125,42,36-50,Female,West,Shared,Variable,Bank Transfer,208.88,1580,129,6,No,6,Yes,99609,1
+U0126,70,51+,Female,North,Family,Fixed,Credit Card,100.91,1276,40,1,No,4,No,137109,1
+U0127,26,26-35,Male,South,Couple,Green Energy,Cash,260.97,1254,64,3,No,3,No,40746,1
+U0128,69,51+,Male,North,Family,Green Energy,Bank Transfer,187.92,635,135,0,No,2,No,56102,0
+U0129,48,36-50,Female,South,Single,Fixed,Cash,252.18,1740,56,2,Yes,2,No,139397,0
+U0130,30,26-35,Male,West,Shared,Green Energy,Credit Card,68.07,1502,54,0,No,8,No,95024,0
+U0131,36,36-50,Female,North,Shared,Variable,Cash,307.48,425,140,5,No,7,Yes,38344,1
+U0132,75,51+,Male,West,Shared,Variable,Debit,133.61,1337,103,2,Yes,6,No,76898,1
+U0133,71,51+,Male,South,Family,Fixed,Debit,188.42,1507,54,2,Yes,0,No,81827,0
+U0134,70,51+,Male,West,Family,Variable,Credit Card,260.64,1658,60,0,No,3,No,101931,1
+U0135,71,51+,Female,South,Shared,Green Energy,Cash,237.17,1161,42,0,No,5,No,36360,1
+U0136,19,18-25,Male,South,Couple,Variable,Credit Card,237.88,593,77,0,No,0,Yes,70926,1
+U0137,39,36-50,Male,West,Single,Fixed,Bank Transfer,131.39,1150,67,0,No,4,No,130774,0
+U0138,70,51+,Female,East,Shared,Variable,Bank Transfer,53.55,1535,73,5,No,4,No,98747,1
+U0139,75,51+,Male,South,Single,Variable,Cash,130.42,1253,46,5,Yes,4,No,100399,1
+U0140,51,51+,Female,North,Single,Green Energy,Debit,55.84,1143,13,0,No,2,Yes,47895,0
+U0141,33,26-35,Female,North,Shared,Variable,Cash,297.47,531,112,5,No,2,Yes,74936,1
+U0142,44,36-50,Male,West,Shared,Fixed,Debit,68.21,1730,105,3,Yes,7,Yes,50423,0
+U0143,56,51+,Male,North,Family,Green Energy,Credit Card,324.68,1232,69,1,Yes,4,No,91774,0
+U0144,64,51+,Female,West,Shared,Fixed,Bank Transfer,269.67,1846,37,1,No,2,No,115030,1
+U0145,66,51+,Female,North,Family,Variable,Cash,108.49,596,107,1,No,3,Yes,100057,0
+U0146,42,36-50,Male,North,Single,Variable,Credit Card,160.19,956,122,1,Yes,3,Yes,52904,0
+U0147,44,36-50,Male,West,Couple,Fixed,Credit Card,158.64,633,3,0,No,1,No,90179,0
+U0148,60,51+,Male,West,Couple,Green Energy,Cash,56.8,540,6,3,No,5,No,85570,1
+U0149,72,51+,Female,North,Shared,Green Energy,Credit Card,213.97,619,137,2,Yes,8,No,74442,1
+U0150,29,26-35,Female,East,Family,Fixed,Debit,197.68,218,34,0,No,6,No,,1
+U0151,49,36-50,Female,North,Family,Variable,Credit Card,52.5,1003,111,0,No,4,No,28319,0
+U0152,29,26-35,Female,South,Shared,Fixed,Debit,58.9,1420,70,1,Yes,5,Yes,99859,0
+U0153,44,36-50,Female,West,Couple,Green Energy,Cash,87.84,1777,89,2,No,0,Yes,36326,1
+U0154,25,18-25,Female,East,Family,Fixed,Debit,292.43,1655,5,0,Yes,0,No,138882,0
+U0155,48,36-50,Male,South,Family,Green Energy,Credit Card,56.97,1567,81,4,Yes,8,Yes,54774,1
+U0156,35,26-35,Female,West,Family,Fixed,Debit,127.37,1442,107,1,Yes,8,Yes,34777,0
+U0157,61,51+,Female,North,Couple,Variable,Debit,193.81,897,74,1,Yes,4,Yes,85667,0
+U0158,68,51+,Female,East,Couple,Fixed,Bank Transfer,277.5,1398,63,2,No,3,Yes,25558,1
+U0159,37,36-50,Female,North,Shared,Variable,Credit Card,137.46,452,89,5,Yes,5,Yes,138191,1
+U0160,32,26-35,Female,North,Shared,Variable,Credit Card,49.86,1671,115,1,Yes,1,Yes,143508,0
+U0161,54,51+,Female,South,Single,Green Energy,Bank Transfer,133.33,228,87,4,No,4,Yes,95092,1
+U0162,74,51+,Female,East,Family,Variable,Credit Card,351.13,1587,11,3,No,4,No,46552,1
+U0163,54,51+,Female,South,Family,Fixed,Bank Transfer,243.26,215,123,1,Yes,2,No,127210,0
+U0164,58,51+,Female,East,Single,Fixed,Bank Transfer,136.51,514,7,0,No,0,No,111105,1
+U0165,54,51+,Male,East,Couple,Green Energy,Debit,127.11,1238,73,1,Yes,5,Yes,122917,0
+U0166,48,36-50,Male,North,Shared,Green Energy,Cash,190.84,1157,59,1,No,6,Yes,73795,1
+U0167,42,36-50,Female,East,Single,Green Energy,Credit Card,73.29,1140,85,3,Yes,3,Yes,95419,0
+U0168,20,18-25,Male,South,Single,Variable,Credit Card,235.53,424,84,6,Yes,5,Yes,121926,1
+U0169,49,36-50,Male,South,Shared,Fixed,Bank Transfer,193.42,814,37,3,Yes,2,Yes,79632,1
+U0170,33,26-35,Male,South,Family,Variable,Credit Card,179.74,1493,98,2,Yes,3,Yes,56105,1
+U0171,29,26-35,Female,East,Single,Fixed,Debit,197.66,274,68,0,No,2,No,94621,0
+U0172,33,26-35,Female,East,Family,Green Energy,Bank Transfer,186.69,838,130,4,No,0,Yes,88678,1
+U0173,24,18-25,Female,South,Family,Fixed,Cash,202.92,539,126,0,No,4,Yes,78633,1
+U0174,22,18-25,Female,West,Family,Variable,Bank Transfer,326.44,1606,27,1,No,0,No,110841,0
+U0175,35,26-35,Female,South,Family,Green Energy,Cash,353.39,1009,71,0,Yes,7,Yes,136171,1
+U0176,54,51+,Male,East,Couple,Variable,Cash,299.22,1761,29,0,Yes,7,No,78113,0
+U0177,62,51+,Male,East,Family,Fixed,Cash,78.39,1523,41,4,Yes,8,Yes,79826,1
+U0178,38,36-50,Male,North,Single,Variable,Credit Card,237.39,1484,25,3,Yes,2,Yes,67497,0
+U0179,42,36-50,Female,North,Shared,Fixed,Debit,229.13,1766,11,2,No,8,No,113107,1
+U0180,22,18-25,Male,West,Shared,Green Energy,Bank Transfer,331.48,653,139,0,Yes,7,Yes,68852,1
+U0181,67,51+,Female,West,Family,Variable,Bank Transfer,213.36,1584,59,5,Yes,6,Yes,68304,1
+U0182,21,18-25,Female,North,Single,Fixed,Credit Card,250.86,387,76,1,Yes,0,Yes,78751,1
+U0183,62,51+,Male,West,Family,Fixed,Debit,281.48,843,41,0,Yes,6,Yes,121828,0
+U0184,73,51+,Male,South,Family,Fixed,Debit,158.3,1108,102,0,Yes,5,Yes,143807,0
+U0185,68,51+,Female,West,Family,Fixed,Cash,118.79,1475,140,1,No,5,No,40438,0
+U0186,22,18-25,Female,South,Single,Fixed,Bank Transfer,287.77,455,108,5,Yes,2,No,39421,1
+U0187,71,51+,Male,South,Family,Variable,Debit,197.98,804,97,3,No,2,Yes,52176,1
+U0188,69,51+,Female,North,Family,Variable,Credit Card,355.45,181,10,0,Yes,8,Yes,51926,0
+U0189,26,26-35,Male,South,Couple,Green Energy,Bank Transfer,186.77,741,74,0,Yes,0,Yes,49292,0
+U0190,19,18-25,Male,West,Single,Green Energy,Debit,99.77,1024,52,0,No,7,Yes,139736,1
+U0191,37,36-50,Male,West,Single,Fixed,Debit,152.81,1287,45,0,Yes,6,Yes,119816,0
+U0192,29,26-35,Female,East,Single,Variable,Credit Card,66.52,1265,64,1,No,3,Yes,60564,0
+U0193,35,26-35,Female,North,Shared,Variable,Credit Card,117.74,1273,75,1,No,7,No,140842,0
+U0194,21,18-25,Female,South,Family,Fixed,Credit Card,192.4,435,62,0,No,1,Yes,76431,0
+U0195,40,36-50,Male,South,Shared,Green Energy,Credit Card,170.37,1196,105,0,No,6,No,61970,1
+U0196,30,26-35,Female,East,Couple,Variable,Cash,200.86,774,91,0,Yes,8,Yes,95362,0
+U0197,27,26-35,Male,West,Family,Green Energy,Debit,90.42,1494,95,1,Yes,4,No,139796,0
+U0198,59,51+,Male,North,Single,Fixed,Debit,356.02,1293,54,0,Yes,3,Yes,119528,0
+U0199,35,26-35,Male,East,Shared,Fixed,Debit,349.39,202,15,2,No,5,Yes,109082,1
+U0200,30,26-35,Female,South,Single,Green Energy,Debit,337.1,893,131,1,Yes,5,No,105569,0
+U0201,33,26-35,Male,South,Shared,Green Energy,Credit Card,97.86,1127,89,3,No,5,Yes,90090,1
+U0202,24,18-25,Female,North,Couple,Fixed,Cash,353.49,263,34,1,Yes,3,Yes,58481,1
+U0203,41,36-50,Male,North,Family,Variable,Bank Transfer,138.46,1756,81,1,Yes,3,No,71941,1
+U0204,33,26-35,Female,East,Couple,Fixed,Cash,199.62,499,80,5,No,7,No,75353,1
+U0205,36,36-50,Female,West,Shared,Fixed,Debit,103.88,1790,72,0,No,1,Yes,,0
+U0206,21,18-25,Male,North,Single,Green Energy,Debit,256.93,1231,64,1,No,6,No,135236,1
+U0207,63,51+,Male,North,Couple,Green Energy,Debit,283.64,998,21,2,Yes,6,Yes,142062,1
+U0208,75,51+,Male,West,Shared,Fixed,Debit,151.23,959,27,3,No,8,No,39303,1
+U0209,57,51+,Female,East,Single,Fixed,Credit Card,144.09,1756,67,1,No,5,Yes,54312,1
+U0210,61,51+,Male,East,Shared,Variable,Credit Card,166.32,1769,71,4,No,7,Yes,51524,1
+U0211,66,51+,Female,South,Family,Fixed,Bank Transfer,155.35,1201,50,6,Yes,8,No,119165,1
+U0212,62,51+,Male,South,Couple,Variable,Credit Card,155.3,1285,80,6,No,0,No,24144,1
+U0213,21,18-25,Female,North,Shared,Variable,Bank Transfer,165.04,434,131,0,No,2,Yes,85843,0
+U0214,61,51+,Male,North,Shared,Green Energy,Cash,76.45,457,5,0,No,2,No,123611,0
+U0215,28,26-35,Male,West,Single,Variable,Bank Transfer,315.22,1011,68,2,Yes,6,No,90178,0
+U0216,64,51+,Female,West,Shared,Fixed,Debit,267.38,880,26,2,No,4,No,75978,1
+U0217,21,18-25,Male,West,Single,Variable,Cash,327.97,264,84,1,No,4,No,55958,1
+U0218,24,18-25,Male,East,Shared,Green Energy,Credit Card,67.62,428,57,0,No,0,No,103123,0
+U0219,65,51+,Male,South,Couple,Variable,Cash,118.43,1448,100,0,Yes,1,Yes,131125,0
+U0220,24,18-25,Male,East,Family,Fixed,Credit Card,101.48,992,100,0,No,4,Yes,85209,0
+U0221,75,51+,Male,East,Family,Variable,Cash,165.31,549,10,5,No,5,No,133698,1
+U0222,74,51+,Female,South,Family,Green Energy,Bank Transfer,210.89,1238,104,6,Yes,2,Yes,45439,1
+U0223,65,51+,Male,West,Single,Fixed,Bank Transfer,277.02,956,127,0,Yes,5,No,29459,0
+U0224,55,51+,Male,West,Shared,Variable,Debit,157.24,898,59,0,Yes,8,Yes,26100,1
+U0225,54,51+,Female,South,Shared,Variable,Bank Transfer,189.15,1637,119,2,Yes,6,No,46323,1
+U0226,59,51+,Male,South,Single,Variable,Cash,73.8,785,66,0,No,1,No,75054,0
+U0227,18,18-25,Male,South,Shared,Green Energy,Bank Transfer,175.2,543,83,0,No,2,Yes,83271,1
+U0228,63,51+,Female,South,Single,Variable,Debit,335.38,562,41,0,No,6,Yes,119891,0
+U0229,26,26-35,Female,West,Family,Variable,Credit Card,282.74,536,127,0,No,2,Yes,131385,0
+U0230,50,36-50,Female,East,Couple,Variable,Cash,280.55,967,73,1,Yes,8,No,109898,1
+U0231,35,26-35,Male,West,Single,Green Energy,Credit Card,166.86,1352,61,1,Yes,3,No,71509,0
+U0232,38,36-50,Female,North,Family,Variable,Cash,305.82,1009,138,4,No,4,No,53216,1
+U0233,36,36-50,Female,South,Single,Variable,Debit,329.29,1396,112,0,No,6,No,135971,1
+U0234,31,26-35,Male,South,Couple,Variable,Bank Transfer,66.19,1605,45,0,No,6,Yes,102051,0
+U0235,19,18-25,Female,West,Family,Green Energy,Debit,320.23,1282,57,3,Yes,5,No,53525,1
+U0236,38,36-50,Male,North,Single,Fixed,Cash,251.76,891,13,1,No,0,No,37687,1
+U0237,56,51+,Female,North,Single,Green Energy,Cash,336.59,285,27,0,Yes,5,Yes,143112,1
+U0238,74,51+,Male,North,Shared,Green Energy,Debit,147.76,931,9,1,No,2,Yes,139625,0
+U0239,40,36-50,Male,North,Shared,Fixed,Cash,63.08,1629,136,6,Yes,8,No,104343,1
+U0240,42,36-50,Male,North,Family,Variable,Cash,79.82,1206,84,2,Yes,1,Yes,37433,0
+U0241,27,26-35,Female,West,Shared,Variable,Cash,119.34,1610,47,0,No,8,No,57163,1
+U0242,26,26-35,Female,North,Family,Variable,Bank Transfer,109.02,557,54,0,Yes,1,No,101239,0
+U0243,45,36-50,Female,South,Couple,Fixed,Cash,233.65,725,127,1,No,7,Yes,38804,1
+U0244,26,26-35,Male,North,Couple,Fixed,Cash,257.78,1366,28,0,Yes,8,No,111380,1
+U0245,25,18-25,Female,North,Family,Green Energy,Debit,166.73,1614,71,2,Yes,0,Yes,74345,0
+U0246,24,18-25,Male,West,Couple,Variable,Debit,125.02,597,24,3,No,6,No,108875,1
+U0247,38,36-50,Female,North,Shared,Variable,Cash,256.46,972,50,3,No,0,No,142945,1
+U0248,24,18-25,Male,South,Family,Variable,Debit,51.84,1059,4,1,No,6,No,106820,1
+U0249,44,36-50,Female,East,Shared,Green Energy,Debit,113.56,350,116,0,No,0,Yes,40519,0
+U0250,72,51+,Female,South,Family,Fixed,Credit Card,141.08,708,77,0,No,8,Yes,65060,1
+U0251,39,36-50,Female,West,Single,Fixed,Debit,247.2,460,67,1,Yes,4,Yes,30537,1
+U0252,67,51+,Male,East,Single,Green Energy,Debit,227.14,1178,4,1,No,3,No,111537,1
+U0253,20,18-25,Female,North,Family,Green Energy,Cash,202.8,887,24,1,Yes,6,No,141384,1
+U0254,36,36-50,Female,South,Family,Variable,Bank Transfer,334.24,1004,38,3,No,1,Yes,125967,1
+U0255,60,51+,Female,East,Family,Green Energy,Credit Card,79.75,819,104,0,Yes,1,Yes,56473,0
+U0256,41,36-50,Male,East,Single,Variable,Cash,178.37,1591,66,2,Yes,3,Yes,142648,1
+U0257,18,18-25,Male,South,Shared,Fixed,Credit Card,169.19,1087,78,1,No,7,No,36395,1
+U0258,51,51+,Male,West,Family,Variable,Credit Card,100.22,932,131,0,No,0,No,81511,0
+U0259,28,26-35,Female,South,Family,Green Energy,Debit,353.11,752,108,0,Yes,5,No,59479,1
+U0260,46,36-50,Female,East,Shared,Green Energy,Debit,211.74,1071,82,0,No,4,Yes,119571,0
+U0261,63,51+,Female,South,Shared,Green Energy,Credit Card,293.74,439,110,0,No,6,No,124113,1
+U0262,40,36-50,Male,South,Couple,Variable,Debit,162.3,1187,75,2,No,2,Yes,114647,1
+U0263,28,26-35,Male,West,Shared,Green Energy,Credit Card,53.65,1258,36,2,No,4,Yes,128255,0
+U0264,34,26-35,Male,East,Shared,Variable,Credit Card,347.58,609,12,1,No,7,No,32461,1
+U0265,74,51+,Male,South,Family,Green Energy,Debit,218.98,447,82,3,No,2,No,79724,1
+U0266,35,26-35,Male,West,Shared,Green Energy,Credit Card,141.32,1259,67,4,No,1,Yes,79730,1
+U0267,35,26-35,Male,South,Single,Green Energy,Debit,342.75,422,56,3,No,1,No,114431,1
+U0268,44,36-50,Female,North,Single,Fixed,Debit,222.74,1733,6,4,Yes,7,Yes,125464,1
+U0269,57,51+,Male,South,Family,Green Energy,Debit,121.17,462,92,0,Yes,8,Yes,127747,0
+U0270,40,36-50,Male,West,Single,Variable,Cash,329.65,896,36,5,Yes,1,No,72952,1
+U0271,22,18-25,Female,East,Single,Fixed,Debit,185.74,659,27,1,Yes,3,Yes,65024,0
+U0272,46,36-50,Female,South,Shared,Green Energy,Bank Transfer,192.92,992,50,4,No,8,Yes,134493,1
+U0273,62,51+,Female,East,Shared,Fixed,Bank Transfer,334.2,1237,23,0,Yes,6,No,101906,0
+U0274,37,36-50,Male,South,Shared,Variable,Credit Card,285.46,1668,44,1,No,7,No,113826,1
+U0275,32,26-35,Male,West,Shared,Fixed,Credit Card,277.05,1251,97,2,No,1,Yes,87343,1
+U0276,26,26-35,Female,North,Shared,Green Energy,Cash,221.32,385,127,2,No,7,Yes,26240,1
+U0277,18,18-25,Female,North,Family,Green Energy,Cash,339.21,916,56,1,No,2,No,76270,1
+U0278,46,36-50,Male,West,Single,Variable,Bank Transfer,294.5,257,109,6,Yes,4,No,60557,1
+U0279,28,26-35,Male,South,Shared,Variable,Credit Card,335.36,1597,8,0,No,8,No,121236,1
+U0280,45,36-50,Female,West,Couple,Variable,Credit Card,142.88,1641,90,4,Yes,2,Yes,33465,1
+U0281,19,18-25,Male,South,Shared,Green Energy,Credit Card,276.15,1065,7,1,Yes,0,Yes,102140,0
+U0282,54,51+,Female,West,Single,Variable,Bank Transfer,158.27,1371,106,0,No,1,No,97870,1
+U0283,37,36-50,Female,East,Couple,Fixed,Debit,291.33,1461,103,1,Yes,4,Yes,,1
+U0284,59,51+,Male,South,Shared,Green Energy,Bank Transfer,54.01,1183,118,1,Yes,7,Yes,66000,0
+U0285,51,51+,Male,West,Shared,Green Energy,Credit Card,330.33,209,90,3,Yes,7,No,28201,1
+U0286,45,36-50,Female,West,Couple,Variable,Credit Card,200.31,987,79,2,Yes,5,No,96157,0
+U0287,42,36-50,Female,North,Couple,Variable,Debit,174.64,1040,97,2,No,4,Yes,54292,1
+U0288,53,51+,Male,West,Family,Variable,Debit,224.07,833,111,1,Yes,5,Yes,36648,1
+U0289,66,51+,Female,East,Couple,Green Energy,Bank Transfer,114.91,573,18,2,No,2,Yes,98083,0
+U0290,23,18-25,Female,South,Family,Green Energy,Cash,263.07,780,94,1,No,5,Yes,109135,1
+U0291,25,18-25,Male,North,Single,Green Energy,Debit,102.87,1177,121,0,Yes,7,Yes,36034,0
+U0292,19,18-25,Male,East,Couple,Green Energy,Debit,74.83,1568,98,0,No,3,Yes,32420,1
+U0293,54,51+,Male,West,Single,Green Energy,Debit,63.91,543,69,0,No,0,No,128319,0
+U0294,50,36-50,Male,West,Single,Variable,Bank Transfer,152.85,830,54,4,No,5,No,59107,1
+U0295,56,51+,Male,East,Single,Variable,Cash,340.2,543,64,0,No,0,Yes,114909,0
+U0296,52,51+,Male,East,Single,Variable,Credit Card,143.36,1582,111,1,No,4,Yes,67821,0
+U0297,35,26-35,Male,West,Couple,Fixed,Credit Card,271.06,569,128,1,Yes,7,Yes,,0
+U0298,18,18-25,Male,North,Single,Variable,Debit,106.7,789,124,0,Yes,5,No,111944,0
+U0299,70,51+,Female,East,Couple,Variable,Debit,58.22,489,90,3,Yes,4,No,67402,0
+U0300,20,18-25,Female,East,Couple,Green Energy,Credit Card,350.45,1005,23,1,No,4,Yes,36818,1
+U0301,38,36-50,Female,North,Single,Green Energy,Cash,221.36,1078,104,0,No,8,No,125917,0
+U0302,32,26-35,Female,East,Shared,Green Energy,Bank Transfer,124.71,249,58,2,Yes,0,Yes,89572,1
+U0303,49,36-50,Male,North,Shared,Green Energy,Cash,81.03,1487,97,3,Yes,2,Yes,42128,1
+U0304,40,36-50,Female,South,Couple,Green Energy,Cash,267.01,1068,34,0,Yes,6,Yes,117199,1
+U0305,42,36-50,Male,North,Couple,Green Energy,Bank Transfer,238.51,1631,114,1,Yes,0,No,26845,0
+U0306,52,51+,Male,North,Family,Fixed,Cash,260.17,1127,5,1,Yes,5,No,121877,1
+U0307,70,51+,Female,East,Couple,Green Energy,Bank Transfer,66.46,1160,21,2,Yes,0,Yes,135589,0
+U0308,41,36-50,Female,South,Single,Fixed,Credit Card,78.06,1790,45,1,Yes,2,No,103199,0
+U0309,36,36-50,Male,South,Family,Variable,Debit,84.66,1228,109,1,Yes,8,No,27487,0
+U0310,60,51+,Female,East,Shared,Variable,Debit,298.87,286,110,2,No,7,Yes,104607,1
+U0311,60,51+,Female,South,Single,Green Energy,Cash,356.89,532,59,0,No,8,No,137040,1
+U0312,56,51+,Male,South,Shared,Green Energy,Debit,131.3,1525,53,4,No,0,No,68909,1
+U0313,19,18-25,Male,West,Single,Variable,Cash,237.01,987,124,0,No,1,Yes,102060,0
+U0314,42,36-50,Male,East,Family,Fixed,Credit Card,352.15,301,37,6,No,2,Yes,111948,1
+U0315,22,18-25,Female,South,Shared,Variable,Debit,163.16,582,133,0,Yes,2,Yes,66842,0
+U0316,52,51+,Male,West,Family,Variable,Credit Card,354.14,1365,25,1,Yes,3,No,74633,1
+U0317,65,51+,Female,South,Single,Green Energy,Debit,319.36,1674,9,0,Yes,8,Yes,106988,0
+U0318,30,26-35,Male,West,Single,Variable,Debit,337.89,1594,39,6,No,4,No,102474,1
+U0319,59,51+,Male,West,Family,Variable,Credit Card,341.16,391,51,2,Yes,7,No,92679,0
+U0320,22,18-25,Male,South,Couple,Green Energy,Credit Card,249.28,312,114,0,Yes,7,No,128694,0
+U0321,64,51+,Female,East,Single,Variable,Cash,288.45,940,86,3,Yes,6,Yes,110286,1
+U0322,33,26-35,Female,South,Couple,Green Energy,Debit,149.54,1145,42,0,No,4,No,89778,1
+U0323,38,36-50,Male,North,Single,Green Energy,Credit Card,,843,16,0,Yes,3,Yes,74547,0
+U0324,38,36-50,Male,North,Couple,Variable,Debit,241.66,1691,85,0,No,7,No,34836,1
+U0325,57,51+,Male,West,Family,Fixed,Credit Card,148.57,1849,72,0,Yes,2,Yes,33431,0
+U0326,26,26-35,Female,North,Single,Fixed,Cash,335.87,1481,134,1,No,7,Yes,69268,1
+U0327,52,51+,Female,West,Family,Variable,Debit,314.31,556,24,1,Yes,2,Yes,35329,0
+U0328,49,36-50,Female,North,Single,Variable,Cash,313.69,1147,47,0,No,5,No,30717,1
+U0329,48,36-50,Female,East,Family,Green Energy,Cash,241.72,502,30,2,Yes,4,No,103800,1
+U0330,24,18-25,Male,North,Couple,Variable,Cash,133.73,835,85,0,Yes,1,Yes,31029,0
+U0331,49,36-50,Male,East,Shared,Fixed,Credit Card,83.22,1224,119,0,Yes,3,No,28089,0
+U0332,38,36-50,Female,East,Single,Fixed,Credit Card,70.98,577,115,0,No,5,No,111159,0
+U0333,49,36-50,Male,North,Shared,Fixed,Credit Card,103.52,618,113,0,No,1,No,119289,0
+U0334,72,51+,Male,South,Shared,Variable,Debit,238.44,467,118,0,Yes,8,No,50087,1
+U0335,22,18-25,Male,North,Shared,Fixed,Credit Card,311.03,1127,80,2,No,5,Yes,143017,1
+U0336,70,51+,Female,South,Family,Fixed,Credit Card,340.01,536,30,0,No,6,Yes,105315,1
+U0337,41,36-50,Male,East,Single,Green Energy,Cash,227.67,233,35,1,Yes,6,No,125725,1
+U0338,19,18-25,Female,North,Couple,Green Energy,Debit,143.11,923,106,4,Yes,8,Yes,105324,1
+U0339,72,51+,Female,South,Couple,Fixed,Cash,134.01,659,120,6,Yes,5,No,82597,1
+U0340,68,51+,Male,West,Couple,Variable,Bank Transfer,100.59,1625,117,0,No,4,No,57447,0
+U0341,26,26-35,Female,West,Couple,Variable,Bank Transfer,211.0,1374,63,5,No,7,No,66647,1
+U0342,52,51+,Male,South,Couple,Fixed,Bank Transfer,308.82,447,43,0,No,8,Yes,53512,1
+U0343,28,26-35,Female,East,Single,Variable,Bank Transfer,234.6,687,73,0,No,0,No,136282,1
+U0344,52,51+,Male,South,Family,Green Energy,Cash,84.23,1569,21,3,No,2,Yes,50818,1
+U0345,42,36-50,Female,West,Single,Fixed,Cash,197.71,1456,12,0,No,4,Yes,140711,0
+U0346,23,18-25,Female,South,Family,Green Energy,Cash,231.8,284,111,5,Yes,8,No,52199,1
+U0347,38,36-50,Male,South,Single,Fixed,Cash,283.51,1330,111,0,Yes,6,No,75685,0
+U0348,73,51+,Female,East,Shared,Variable,Credit Card,284.26,775,94,4,No,2,Yes,64773,1
+U0349,58,51+,Female,East,Shared,Variable,Debit,239.43,1554,111,0,No,7,Yes,59187,1
+U0350,33,26-35,Female,North,Single,Green Energy,Debit,330.28,1841,29,0,Yes,5,No,126562,0
+U0351,51,51+,Female,West,Shared,Green Energy,Credit Card,100.92,220,87,0,Yes,7,No,93930,0
+U0352,52,51+,Male,South,Family,Fixed,Bank Transfer,128.13,1121,109,2,Yes,6,No,40819,0
+U0353,71,51+,Female,East,Single,Fixed,Debit,86.43,1012,109,3,No,2,No,58359,0
+U0354,71,51+,Male,West,Single,Fixed,Credit Card,291.1,596,100,0,Yes,6,No,121351,0
+U0355,45,36-50,Male,North,Family,Green Energy,Cash,74.5,1478,103,1,No,8,Yes,122704,1
+U0356,56,51+,Female,South,Couple,Variable,Credit Card,236.71,1641,58,6,No,8,Yes,132809,1
+U0357,40,36-50,Female,West,Shared,Fixed,Debit,235.91,1791,61,1,No,0,No,123166,1
+U0358,37,36-50,Male,West,Family,Variable,Debit,345.02,502,29,1,No,8,Yes,143009,1
+U0359,69,51+,Female,West,Shared,Fixed,Cash,349.73,1689,26,2,Yes,6,Yes,25592,1
+U0360,21,18-25,Male,East,Couple,Green Energy,Credit Card,348.5,382,43,1,No,2,Yes,65709,1
+U0361,50,36-50,Female,West,Single,Variable,Credit Card,238.34,1596,95,1,Yes,6,No,35133,1
+U0362,64,51+,Male,North,Family,Green Energy,Credit Card,318.35,972,35,2,Yes,8,Yes,56575,1
+U0363,48,36-50,Female,North,Shared,Green Energy,Bank Transfer,97.97,1291,50,0,Yes,6,No,37447,1
+U0364,48,36-50,Female,North,Shared,Variable,Bank Transfer,205.23,1290,47,1,No,8,Yes,115485,1
+U0365,67,51+,Female,North,Single,Fixed,Debit,179.54,1228,121,1,Yes,1,No,87114,0
+U0366,50,36-50,Female,South,Family,Green Energy,Bank Transfer,111.41,1481,106,2,No,0,Yes,142141,1
+U0367,32,26-35,Female,South,Single,Variable,Bank Transfer,,1578,76,3,No,0,No,92371,1
+U0368,33,26-35,Male,South,Family,Green Energy,Debit,237.62,936,75,0,No,8,Yes,35785,1
+U0369,45,36-50,Male,East,Single,Fixed,Bank Transfer,152.34,477,56,0,Yes,8,Yes,122997,1
+U0370,35,26-35,Female,South,Single,Fixed,Bank Transfer,58.89,1517,64,0,No,0,No,63424,0
