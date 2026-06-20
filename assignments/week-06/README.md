@@ -1,4 +1,4 @@
-# Assignment 6: Model Evaluation, Explainability, and Fairness Analysis
+# Assignment 6: Model Evaluation, Explainability, and Fairness Reflection
 
 ## Dataset Description
 
