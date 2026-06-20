@@ -10,7 +10,7 @@ The dataset contains 370 customer records and includes fairness-related attribut
 
 The target variable is:
 
-**late_payment_next_month**
+late_payment_next_month
 
 * 0 = Customer pays on time
 * 1 = Customer makes a late payment
@@ -19,7 +19,7 @@ The objective of the model is to predict whether a customer will make a late pay
 
 ## Model Used
 
-A **Decision Tree Classifier** was used for this assignment.
+A Decision Tree Classifier was used for this assignment.
 
 The dataset was preprocessed by handling missing values, converting categorical variables into numerical format using one-hot encoding, and splitting the data into training and testing sets before model training.
 
