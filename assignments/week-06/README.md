@@ -43,15 +43,9 @@ Cross-validation results showed relatively consistent performance across differe
 
 ## Main Business Interpretation
 
-The model helps identify customers who may be at risk of making late payments. This allows the utility company to take proactive actions such as sending payment reminders, providing payment assistance, or monitoring higher-risk accounts.
-
-Feature importance, SHAP, and LIME analysis showed that variables such as previous late payments, monthly bill amount, autopay status, and customer support interactions play an important role in the model’s predictions.
-
-The fairness analysis showed some differences in prediction performance across gender, age groups, and regions. Although no severe bias was observed, the results suggest that fairness should continue to be monitored before using the model in real-world decision-making.
+The model helps identify customers who may be at risk of making late payments. This allows the utility company to take proactive actions such as sending payment reminders, providing payment assistance, or monitoring higher-risk accounts. Feature importance, SHAP, and LIME analysis showed that variables such as previous late payments, monthly bill amount, autopay status, and customer support interactions play an important role in the model’s predictions. The fairness analysis showed some differences in prediction performance across gender, age groups, and regions. Although no severe bias was observed, the results suggest that fairness should continue to be monitored before using the model in real-world decision-making.
 
 ## One Limitation of the Model
 
-One limitation of this model is that it shows some evidence of overfitting, as the training accuracy is higher than the testing accuracy. In addition, model performance varies across some demographic groups, indicating that further model tuning and fairness evaluation may be needed before deployment.
-
-Therefore, the current model should be considered an early prototype rather than a production-ready business solution.
+One limitation of this model is that it shows some evidence of overfitting, as the training accuracy is higher than the testing accuracy. In addition, model performance varies across some demographic groups, indicating that further model tuning and fairness evaluation may be needed before deployment. Therefore, the current model should be considered an early prototype rather than a production-ready business solution.
 
