@@ -1,45 +1,44 @@
-# Assignment 8: NLP and Text Classification 
+# Assignment 8: NLP Text Classification of Public Library Service Requests
 
 ## Dataset Description
 
-This project uses the **Public Library Patron Requests Dataset**, which contains 120 patron messages submitted through different library channels such as email, chat, website forms, mobile apps, and front desk interactions. Each record includes a patron message along with information such as city, branch, patron type, request category, and priority level.
+This project uses the **Public Library Service Request Classification Dataset**, which contains 120 patron service requests submitted to RiverCity Public Library. The dataset includes information such as request details, patron information, communication channels, and request categories. The main text data is stored in the PatronMessage column, which contains the messages submitted by library patrons.
 
 ## Target Variable
 
-The target variable is **RequestCategory**.
+The target variable is **RequestCategory**, which represents the type of service request submitted by a patron. The categories include:
 
-The categories include:
-
+* Book_Availability
 * Digital_Access
-* Study_Space
+* Event_Registration
 * Facility_Issue
 * Staff_Help
-* Event_Registration
-* Book_Availability
+* Study_Space
 
-The goal is to automatically classify patron messages into the correct request category.
+The objective is to automatically classify patron messages into the correct request category.
 
 ## Model Used
 
-A **Multinomial Naive Bayes** classification model was used.
-Text data was converted into numerical features using **TF-IDF (Term Frequency–Inverse Document Frequency)** before training the model.
+Text preprocessing techniques including lowercasing, punctuation removal, stopword removal, tokenization, and lemmatization were applied to the text data. The cleaned text was converted into numerical features using TF-IDF (Term Frequency–Inverse Document Frequency).
+
+A Multinomial Naive Bayes classifier was then trained to predict the request category.
 
 ## Main Evaluation Results
 
-The model achieved:
+The model achieved excellent performance on the testing dataset:
 
-* Accuracy: 100% (1.00)
+* Accuracy: 100%
 * Precision: 1.00
 * Recall: 1.00
 * F1-Score: 1.00
 
-The confusion matrix showed that all test records were correctly classified.
+The confusion matrix showed that all test records were classified correctly.
 
 ## Main Business Interpretation
 
-The model can automatically categorize incoming library requests based on the text of the patron message. This can help library staff quickly route requests to the appropriate department, reduce manual work, and improve response times. Text analysis also showed that common words such as library, staff, study, book, and event frequently appeared in patron messages, indicating that patrons often contact the library about facilities, resources, and services.
+The model successfully predicts the category of library service requests based on patron messages. This can help RiverCity Public Library automatically route requests to the appropriate department, reduce manual processing time, and improve response efficiency.
+Text analysis showed that words such as library, staff, study, book, branch, and event appeared frequently in patron messages. This suggests that library resources, study spaces, staff assistance, and events are common topics of concern among patrons.
 
 ## Limitation of the Model
 
-A limitation of this project is the relatively small dataset size (120 records). The model achieved perfect accuracy on the test set, but its performance may decrease when applied to larger and more diverse real-world patron messages that contain different wording or topics.
-
+One limitation of this project is the relatively small dataset size of 120 records. Although the model achieved perfect accuracy on the test data, its performance may differ when applied to larger and more diverse real-world patron requests. Additional data would help improve the model's robustness and generalizability.
