@@ -1,5 +1,4 @@
-# Assignment 8: NLP Text Classification of Public Library Service Requests
-
+# Assignment 8: NLP and Text Classification 
 ## Dataset Description
 
 This project uses the **Public Library Service Request Classification Dataset**, which contains 120 patron service requests submitted to RiverCity Public Library. The dataset includes information such as request details, patron information, communication channels, and request categories. The main text data is stored in the PatronMessage column, which contains the messages submitted by library patrons.
