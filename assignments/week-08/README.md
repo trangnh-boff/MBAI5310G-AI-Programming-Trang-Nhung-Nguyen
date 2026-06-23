@@ -28,16 +28,16 @@ Text data was converted into numerical features using **TF-IDF (Term Frequencyâ€
 
 The model achieved:
 
-* Accuracy: **100% (1.00)**
-* Precision: **1.00**
-* Recall: **1.00**
-* F1-Score: **1.00**
+* Accuracy: 100% (1.00)
+* Precision: 1.00
+* Recall: 1.00
+* F1-Score: 1.00
 
 The confusion matrix showed that all test records were correctly classified.
 
 ## Main Business Interpretation
 
-The model can automatically categorize incoming library requests based on the text of the patron message. This can help library staff quickly route requests to the appropriate department, reduce manual work, and improve response times. Text analysis also showed that common words such as *library*, *staff*, *study*, *book*, and *event* frequently appeared in patron messages, indicating that patrons often contact the library about facilities, resources, and services.
+The model can automatically categorize incoming library requests based on the text of the patron message. This can help library staff quickly route requests to the appropriate department, reduce manual work, and improve response times. Text analysis also showed that common words such as library, staff, study, book, and event frequently appeared in patron messages, indicating that patrons often contact the library about facilities, resources, and services.
 
 ## Limitation of the Model
 
